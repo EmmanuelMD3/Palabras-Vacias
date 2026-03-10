@@ -1,0 +1,2 @@
+docs,stoplist_size,gold_unique,candidates,accepted,rejected,precision,recall,f_score
+144,246,1878,2634,100,2534,1.0,0.05373455131649651,0.10198878123406427

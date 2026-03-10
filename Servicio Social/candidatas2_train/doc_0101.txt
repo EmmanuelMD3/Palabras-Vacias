@@ -1,0 +1,4 @@
+system stabilization
+chaotic circuit
+system trajectories
+some capabilities

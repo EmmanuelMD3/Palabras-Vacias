@@ -1,0 +1,5 @@
+fuzzy systems
+many-valued implication
+multi-input-multi-output fuzzy systems
+universal approximator
+Boolean type fuzzy systems

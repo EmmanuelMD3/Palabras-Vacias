@@ -1,0 +1,13 @@
+approximate solution
+incomplete knowledge
+rule similarity
+inference method
+SLD procedure
+consequence atom
+reasoning
+reliability
+representative solution
+problem solving
+subgoal atom
+word knowledge base
+common sense knowledge

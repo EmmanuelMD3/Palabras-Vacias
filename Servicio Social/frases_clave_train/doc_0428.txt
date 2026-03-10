@@ -1,0 +1,5 @@
+lattice Boltzmann schemes
+quantum applications
+quantum many-body problems
+quantum computers
+parallel computing

@@ -1,0 +1,12 @@
+variety identification
+mass spectra processing
+neural network analysis
+matrix-assisted laser desorption/ionisation time-of-flight mass spectrometry
+wheat variety classification
+mass spectrometric data
+Gaussian smoothing
+normalisation procedures
+multiplicative scatter correction
+correctly classified mass spectra
+correlation coefficient
+pre-processing- method

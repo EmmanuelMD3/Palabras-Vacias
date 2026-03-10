@@ -1,0 +1,17 @@
+xml
+rank
+inex
+inform retriev
+xml ir
+baselin retriev
+sog quantiz
+xml cumul gain metric
+cumul gain
+ideal gain vector
+xcg metric reward retriev
+multitext system
+re-rank algorithm
+term frequenc vector
+prioriti queue
+time complex
+extend tree travers routin

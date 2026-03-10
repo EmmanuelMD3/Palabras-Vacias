@@ -1,0 +1,17 @@
+automated post bonding inspection
+machine vision
+semiconductor industry
+wire bonding
+packaging
+lead fingers
+bonding line missing
+bonding line breakage
+bonding balls
+defect classification
+image preprocessing
+orientation determination
+connection detection
+bonding line detection
+bonding ball detection
+IC manufacturing
+bond pad connection

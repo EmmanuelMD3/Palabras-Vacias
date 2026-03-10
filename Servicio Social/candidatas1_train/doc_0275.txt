@@ -1,0 +1,4 @@
+majority
+total
+high
+low

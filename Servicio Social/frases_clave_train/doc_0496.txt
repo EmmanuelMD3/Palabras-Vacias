@@ -1,0 +1,12 @@
+DIPIE algorithm
+electrostatically actuated MEMS devices
+electrostatic actuators
+pull-in parameters
+design geometries
+convergence rate
+displacement iteration
+electrostatic field solver
+MOEMS CAD packages
+displacement iteration pull-in extraction scheme
+mechanical field solver
+computer-aided design

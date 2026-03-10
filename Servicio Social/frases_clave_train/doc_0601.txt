@@ -1,0 +1,7 @@
+universal approximator
+hierarchical fuzzy system
+fuzzy rules
+continuous function
+ball and beam control system
+hierarchical fuzzy logic
+Stone-Weierstrass theorem

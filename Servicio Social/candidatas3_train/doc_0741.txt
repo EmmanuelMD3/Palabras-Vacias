@@ -1,0 +1,2 @@
+a single approach
+Constraint Satisfaction Problems

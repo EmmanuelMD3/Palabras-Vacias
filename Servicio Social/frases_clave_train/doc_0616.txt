@@ -1,0 +1,12 @@
+visible laser diode
+single-transverse-mode
+single-longitudinal-mode
+constant current bias
+constant operating temperature
+heating correction
+monitor photodiode
+fractional wavelength stability
+etalon-stabilized laser diode
+index-guided multi-quantum-well
+closed-loop operation
+feedback loop

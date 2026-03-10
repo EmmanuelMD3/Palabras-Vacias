@@ -1,0 +1,11 @@
+hidden Markov models
+tool wear monitoring
+machining processes
+vibration signals
+codebook
+vector quantization
+tool state detection
+feature extraction
+turning process
+HMM training
+discrete wavelet transform

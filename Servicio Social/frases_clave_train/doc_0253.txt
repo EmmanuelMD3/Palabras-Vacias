@@ -1,0 +1,8 @@
+automatic seam tracking system
+electromagnetic sensor
+sheet metal arc welding
+butt joints
+root gap size
+seam tracking accuracy
+eddy current generation
+weld line detection

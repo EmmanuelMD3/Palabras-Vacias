@@ -1,0 +1,4 @@
+Hopfield neural networks
+global stability
+sufficient conditions
+globally exponentially stable networks

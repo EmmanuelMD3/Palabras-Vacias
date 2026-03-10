@@ -1,0 +1,7 @@
+subdivision surfaces
+subdivision patches
+piecewise-smooth subdivision surfaces
+quadrilaterals
+parametric bicubic B-spline surfaces
+parametric surfaces blending
+piecewise smooth subdivision surfaces

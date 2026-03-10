@@ -1,0 +1,2 @@
+zero function
+nonzero outputs

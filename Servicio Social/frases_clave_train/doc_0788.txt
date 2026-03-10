@@ -1,0 +1,12 @@
+wavelet-based level-of-detail representation
+range images
+wavelet transform
+marching cube algorithm
+base mesh
+decimation algorithm
+wavelet coefficients
+critical problem
+surface crease problem
+mesh simplification
+3D object level of detail modeling system
+hierarchy transformation

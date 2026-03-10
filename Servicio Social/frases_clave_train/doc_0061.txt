@@ -1,0 +1,13 @@
+resolution
+analog-to-digital converters
+circuit techniques
+statistical analysis
+CMOS technology
+current-mode ADC
+algorithmic ADC
+A/D converters
+error analysis
+tolerance analysis
+circuit analysis
+0.35 micron
+4 bit

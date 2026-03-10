@@ -1,0 +1,19 @@
+multileaf collimator leaf width
+physical dose distributions
+head and neck neoplasms
+intensity modulated radiation therapy
+10 mm
+CNS tumors
+treatment planning
+conformal radiotherapy
+parotid preservation
+5 mm
+beamlet size
+21.04 Gy
+22.36 Gy
+single fraction radiosurgery
+CNS neoplasms
+optimization parameters
+acceptable tumor coverage
+minimal toxicity
+collimator rotation

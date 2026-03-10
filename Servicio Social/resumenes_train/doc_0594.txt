@@ -1,0 +1,1 @@
+Looks at how graphics hardware solves a range of rendering problems

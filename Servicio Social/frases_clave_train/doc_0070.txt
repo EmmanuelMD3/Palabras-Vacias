@@ -1,0 +1,14 @@
+FACTS controllers
+multilevel topologies
+multipulse topology
+inverters
+switching frequency
+device count
+DC filter ratings
+static compensator
+static synchronous series compensator
+unified power flow controller
+high-power converter topologies comparison
+multipoint clamped topology
+STATCOM
+UPFC

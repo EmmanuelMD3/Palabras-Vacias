@@ -1,0 +1,8 @@
+pipelined FIR ADF
+adaptive digital filter
+maximum delay
+convergence speed
+coefficient classification
+delayed least mean square filter
+pre-upsampled filter
+post-downsampled filter

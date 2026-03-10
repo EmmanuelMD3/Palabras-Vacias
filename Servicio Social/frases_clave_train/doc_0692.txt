@@ -1,0 +1,16 @@
+collision information processing
+fast moving objects
+virtual environments
+physical environments
+collision detection
+discrete time steps
+consecutive time frames
+continuous time intervals
+interframe collision detection
+convex objects
+tracking
+nonconvex objects
+air traffic control
+smart sensors
+military training
+high speed machining

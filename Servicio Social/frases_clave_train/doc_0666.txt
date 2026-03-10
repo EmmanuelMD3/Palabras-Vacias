@@ -1,0 +1,8 @@
+weakly invertible
+invertibility
+semi-input-memory
+semi-input-memory finite automata
+finite automata
+delay 1
+state graph
+feedforward inverse finite automata

@@ -1,0 +1,11 @@
+MARC21
+global resource sharing
+library communities
+standards
+machine-readable catalogue records
+India
+southeast Asia
+Common Communication Format conversion
+bibliographic records exchange
+data transfer
+CCF to MARC21 mapping

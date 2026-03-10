@@ -1,0 +1,8 @@
+search algorithms
+CSP
+Constraint Satisfaction Problems
+local search algorithms
+systematic algorithms
+partial assignments
+filtering techniques
+tabu decision-repair

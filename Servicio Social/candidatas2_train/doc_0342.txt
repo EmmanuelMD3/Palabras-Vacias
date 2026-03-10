@@ -1,0 +1,3 @@
+FIR preserving
+the analysis
+dyadic trees

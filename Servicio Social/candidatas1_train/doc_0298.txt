@@ -1,0 +1,6 @@
+concept
+effect
+effectiveness
+restrictions
+successfulness
+RNN

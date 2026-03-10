@@ -1,0 +1,13 @@
+congest game
+load-depend failur
+load-depend failur
+ident resourc
+failur probabl
+potenti function
+pure strategi nash equilibrium
+nash equilibrium
+nondecreas cost function
+localeffect game
+resourc cost function
+real-valu function
+load-depend resourc failur

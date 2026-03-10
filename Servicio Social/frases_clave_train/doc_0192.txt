@@ -1,0 +1,7 @@
+entanglement measure
+asymptotic entanglement measure
+bipartite states
+dense coding capacity
+optimization
+local quantum operations
+classical communications

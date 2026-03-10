@@ -1,0 +1,11 @@
+computational geometry
+Boost Graph Library
+generic programming approach
+Boost libraries
+C++
+threads
+smart pointers
+graph-theoretic concepts
+directed graph
+file dependencies
+BGL graph

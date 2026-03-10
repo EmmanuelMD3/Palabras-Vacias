@@ -1,0 +1,9 @@
+data extraction
+schema
+Internet
+information source
+HTML
+wrapper generation
+data integration
+distributed database
+queries

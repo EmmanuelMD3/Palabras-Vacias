@@ -1,0 +1,11 @@
+sequential control
+flexible manufacturing systems
+recurrent neural network
+programmable controller
+finite state automata
+noisy inputs
+Elman network
+ladder language
+pneumatic system
+learning
+FMS

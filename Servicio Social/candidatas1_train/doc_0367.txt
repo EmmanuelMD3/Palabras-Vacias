@@ -1,0 +1,4 @@
+existence
+integrality
+independent
+straightforward

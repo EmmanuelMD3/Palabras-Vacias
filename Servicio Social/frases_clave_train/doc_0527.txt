@@ -1,0 +1,9 @@
+topology-reducing surface simplification
+discrete solid representation
+coarse-level approximations
+topologically complex models
+3D model
+volumetric representation
+error-bounded models
+scene parts
+complex mechanical assemblies

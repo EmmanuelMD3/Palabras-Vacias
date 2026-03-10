@@ -1,0 +1,2 @@
+cavity decay rate
+number of atoms

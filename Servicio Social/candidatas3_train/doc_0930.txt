@@ -1,0 +1,4 @@
+decoder using JAVA
+of the encoder
+an external database
+enabling the interconnection

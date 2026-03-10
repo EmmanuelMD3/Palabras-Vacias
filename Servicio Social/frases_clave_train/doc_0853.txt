@@ -1,0 +1,8 @@
+robust H/sub infinity / control
+robustness
+stability
+induction motors control
+external disturbances
+field orientation
+input-output linearization
+internal disturbances

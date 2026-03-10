@@ -1,0 +1,16 @@
+molecular descriptor selection
+genetic algorithms
+fuzzy logic
+database mining
+data mining
+descriptor hyperspace exploration
+stepwise approach
+local convergence
+fitness function
+fuzzy clustering method
+test sets
+fitness score
+Bullseye
+olfactory compounds
+odor categories
+training sets

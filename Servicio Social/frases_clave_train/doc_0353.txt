@@ -1,0 +1,8 @@
+blended implementation
+block implicit methods
+ODEs
+nonlinear splittings
+numerical method
+diagonal splitting
+parallel computers
+numerical tests

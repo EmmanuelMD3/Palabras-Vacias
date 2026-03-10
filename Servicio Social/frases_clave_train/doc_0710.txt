@@ -1,0 +1,15 @@
+periodic Voronoi grain models
+two-phase steel
+three-dimensional model
+periodic boundary conditions
+Voronoi algorithm
+geometrical model
+stress-strain curves
+micromechanical FEM simulations
+microstructures modeling
+ferrite-pearlite steel
+Voronoi tessellation
+adaptive mesh generator
+quadtree/octree-based algorithm
+kinematic constraints
+computational time

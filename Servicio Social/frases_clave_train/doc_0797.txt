@@ -1,0 +1,22 @@
+network intrusion
+fault detection
+Internet
+electronic commerce environment
+adaptive/automatic network/service intrusion
+wide area data networks
+e-commerce infrastructure
+wireless ad hoc networks
+statistical models
+multivariate classifiers
+traffic anomaly intensity
+background traffic intensity
+computer network attacks
+denial of service
+early warning systems
+neural network classification
+ad hoc wireless experiments
+backpropagation
+perceptron-back propagation hybrid
+hierarchical multitier statistical anomaly detection
+multiwindow anomaly detection
+wired ad hoc networks

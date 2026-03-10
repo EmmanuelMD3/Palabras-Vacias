@@ -1,0 +1,2 @@
+the texture map
+its texture space

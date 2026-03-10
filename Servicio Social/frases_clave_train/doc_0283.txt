@@ -1,0 +1,12 @@
+nonlinear control
+shape memory alloy
+manipulator
+positioning
+nonlinear dynamics
+closed loop
+open loop
+variable structure control
+control gain switching
+feedback
+stabilization
+tracking

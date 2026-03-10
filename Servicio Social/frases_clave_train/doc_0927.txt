@@ -1,0 +1,9 @@
+PSTH
+integrate-and-fire model
+motoneuron
+firing rates
+membrane trajectories
+spike-response model
+passive membrane time constant
+recovery time
+spike afterpotential

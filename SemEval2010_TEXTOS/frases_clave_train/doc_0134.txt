@@ -1,0 +1,24 @@
+network
+pomdp
+qualiti guarante polici
+distribut partial observ markov decis problem
+distribut pomdp
+uncertain domain
+approxim solut
+global optim
+agent interact structur
+heurist
+polici search
+qualiti guarante approxim
+multi-agent system
+agent network
+branch and bound heurist search techniqu
+heurist function
+optim joint polici
+network structur
+depth first search
+distribut sensor network
+overal joint reward
+maximum constrain node
+partial observ markov decis process
+global optim solut

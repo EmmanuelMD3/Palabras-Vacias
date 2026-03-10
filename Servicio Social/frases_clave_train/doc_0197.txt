@@ -1,0 +1,13 @@
+continuous-time optimal control problems
+numerical computation
+combinatorial search
+sequence-dependent manner
+single-state problems
+multiple control functions
+production planning problem
+train operation problem
+combinatorial graph-based solution
+bang-bang control regimes
+singular control regimes
+shortest path algorithm
+weighted graph nodes

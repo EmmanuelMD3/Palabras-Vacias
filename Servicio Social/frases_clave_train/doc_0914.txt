@@ -1,0 +1,4 @@
+self-describing Turing machines
+self-describeness
+self-reproduction
+encodings

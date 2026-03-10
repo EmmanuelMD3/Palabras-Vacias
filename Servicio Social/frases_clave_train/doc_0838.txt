@@ -1,0 +1,9 @@
+parallel two-step W-methods
+linearly-implicit integration methods
+stage order
+stability
+shared memory computer
+Krylov-techniques
+large stiff systems
+differential equations
+convergence analysis

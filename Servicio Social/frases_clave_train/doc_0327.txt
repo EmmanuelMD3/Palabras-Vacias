@@ -1,0 +1,20 @@
+scalable secure group communication
+IP multicast
+Internet protocol multicast
+storage overhead
+overhead
+logarithmic overhead
+simulation
+group membership
+group dynamics
+rekeying algorithm
+secure multicast group
+Internet-like topologies
+Internet topology map
+bandwidth usage
+processing costs
+storage requirements
+cryptography
+access control server
+authentication
+network routers

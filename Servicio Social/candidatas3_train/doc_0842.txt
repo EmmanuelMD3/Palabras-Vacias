@@ -1,0 +1,3 @@
+the LOCAL directive
+of VPP Fortran
+pure data parallelism

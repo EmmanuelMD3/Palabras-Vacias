@@ -1,0 +1,3 @@
+other sensing modalities
+include surface priors
+multiple range maps

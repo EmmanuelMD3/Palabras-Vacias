@@ -1,0 +1,15 @@
+robust stability analysis
+current-programmed regulators
+uncertainty models
+linear fractional transformations
+structured dynamic uncertainties
+load resistance
+inductance
+capacitance
+switch-mode DC-DC converters
+control analysis
+nominal model
+norm-bounded modeling uncertainty
+buck converters
+boost converters
+buck-boost converters

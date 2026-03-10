@@ -1,0 +1,13 @@
+bid
+auction
+multiattribut auction
+constraint
+semant framework
+multiattribut util theori
+global alloc
+prefer
+on-side mechan
+seller valuat function
+partial specif
+combinatori auction
+continu doubl auction

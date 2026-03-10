@@ -1,0 +1,2 @@
+transitive closure reasoning
+a part hierarchy

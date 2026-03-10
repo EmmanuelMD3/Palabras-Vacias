@@ -1,0 +1,22 @@
+portal dose image prediction
+dosimetric treatment verification
+radiotherapy
+two-dimensional function
+wedged photon beam
+electronic portal imaging devices
+planning CT scan
+irradiation geometry
+open beams
+high energy photon beams
+23 MV
+thorax phantom
+transmission dosimetry
+wedged beams algorithm
+low energy photon beams
+slab phantom
+in vivo dosimetry
+fluoroscopic CCD camera
+pencil beam algorithm
+CadPlan planning system
+virtual wedges
+6 MV

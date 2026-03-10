@@ -1,0 +1,3 @@
+that generates smooth
+surface to approximate
+yet globally smooth

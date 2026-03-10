@@ -1,0 +1,17 @@
+thermal coefficients
+magneto-optical media
+thermal conductivity
+magneto-optic recording media
+laser power
+maximum temperature
+TbFeCo layer
+TbFeCo
+Curie temperature
+heat capacity
+dielectric layer
+aluminum alloy layer
+static disks
+light focusing
+thermal diffusion
+multilayer structure
+irradiation time

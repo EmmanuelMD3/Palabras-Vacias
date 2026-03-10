@@ -1,0 +1,7 @@
+UPSILON
+universal programming system
+programming system
+incomplete lazy object notation
+object-oriented flavor
+usable type theory
+data synchronization primitive

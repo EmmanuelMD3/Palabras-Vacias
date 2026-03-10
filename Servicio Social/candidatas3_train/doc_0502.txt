@@ -1,0 +1,3 @@
+modelled detector array
+the projection angle
+linear attenuation coefficient

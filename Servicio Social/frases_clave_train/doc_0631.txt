@@ -1,0 +1,22 @@
+multi-hour design
+survivable classical IP networks
+Internet intra-domain routing protocols
+OSPF
+RIP
+IS-IS
+shortest path routing
+path length
+path links
+network administrator
+Internet backbone network
+transmission links
+Internet traffic
+survivability requirements
+quality of service constraints
+network dimensioning
+network routers
+network failures
+meta-heuristics algorithm
+greedy heuristic algorithm
+network protection
+QoS constraints

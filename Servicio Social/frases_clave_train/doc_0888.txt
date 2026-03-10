@@ -1,0 +1,18 @@
+SHOKE2000
+FPGA card
+FPGA
+reconfigurable computing
+field programmable gate arrays
+user logic circuits
+I/O standard
+interfaces
+digital signal processors
+DSP
+analog devices
+hybrid reconfigurable systems
+image recognition application
+distributed shared memory computer cluster
+teaching materials
+computer education
+PCI
+intellectual property

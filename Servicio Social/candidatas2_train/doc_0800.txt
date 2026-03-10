@@ -1,0 +1,3 @@
+heat capacity
+maximum temperature
+thermal conductivity

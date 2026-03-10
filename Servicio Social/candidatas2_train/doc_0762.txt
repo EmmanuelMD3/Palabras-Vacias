@@ -1,0 +1,5 @@
+time t
+continuous state
+Laplace transform
+scattering behavior
+state s

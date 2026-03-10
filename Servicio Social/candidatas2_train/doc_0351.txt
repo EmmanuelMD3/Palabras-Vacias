@@ -1,0 +1,2 @@
+torque harmonics
+motor flux

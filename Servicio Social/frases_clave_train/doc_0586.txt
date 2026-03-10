@@ -1,0 +1,14 @@
+infrared-image classification
+hidden Markov trees
+target-sensor orientation
+target pose
+contiguous target-sensor orientations
+Wiener filters
+Karhunen-Loeve representation
+minimization
+HMT
+vehicles
+IR image classification
+3D target image
+forward-looking-infrared imagery
+FLIR imagery

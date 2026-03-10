@@ -1,0 +1,7 @@
+double sampling s-control charts
+agile manufacturing
+process standard deviation
+statistical process control
+genetic algorithm
+double sampling X-control charts
+process mean shift detection

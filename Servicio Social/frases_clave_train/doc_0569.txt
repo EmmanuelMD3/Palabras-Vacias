@@ -1,0 +1,8 @@
+score tests
+count data
+excess zeros
+zero probability
+covariates
+simulation
+composite test
+zero-inflated Poisson regression model

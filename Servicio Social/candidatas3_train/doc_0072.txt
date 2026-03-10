@@ -1,0 +1,3 @@
+the boundary conditions
+the discretization parameter
+the semidiscrete problem

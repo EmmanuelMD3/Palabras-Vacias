@@ -1,0 +1,8 @@
+element-by-element
+HPF
+HPF compiler
+conjugate gradient solver
+message passing
+finite element method
+parallel programs
+Poisson equation

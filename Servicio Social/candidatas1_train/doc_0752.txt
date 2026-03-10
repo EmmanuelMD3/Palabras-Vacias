@@ -1,0 +1,7 @@
+coefficient
+intensity
+magnitude
+variability
+mean
+ascertain
+variance

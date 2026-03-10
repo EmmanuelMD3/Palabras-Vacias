@@ -1,0 +1,8 @@
+control logic
+transient stability performance
+transient stability
+single machine infinite bus system
+multiple stroke operations
+parallel valves operation
+single stroke operations
+turbine power output control

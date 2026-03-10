@@ -1,0 +1,5 @@
+domain
+output
+power
+graphics
+however

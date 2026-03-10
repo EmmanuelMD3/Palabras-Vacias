@@ -1,0 +1,8 @@
+synchronization
+Chen chaotic systems
+active control
+response systems
+Lyapunov stability theory
+adaptive synchronization controller
+global asymptotic synchronization
+Rossler chaotic systems

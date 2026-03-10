@@ -1,0 +1,12 @@
+formal framework
+viewpoint consistency
+multiple viewpoint models
+system development
+open distributed processing
+ODP
+ISO/ITU standardisation framework
+formal description technique
+LOTOS
+consistency checking
+development models
+process algebra

@@ -1,0 +1,2 @@
+provide stronger reliability
+and locality properties

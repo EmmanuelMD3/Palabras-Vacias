@@ -1,0 +1,15 @@
+sliding-mode observer
+speed-sensorless control
+speed
+induction machine
+flux
+rotor time constant
+flux equations
+current model
+sliding function
+speed estimation accuracy
+parameter uncertainties
+induction motor drive
+sensorless control
+current equations
+fourth-order system reduction

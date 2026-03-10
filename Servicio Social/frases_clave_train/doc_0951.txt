@@ -1,0 +1,9 @@
+turning inserts
+tool geometries
+machining
+tool nose radius
+temperature correction factor
+parametric mesh generator
+finite element models
+cutting temperature model
+insert shape effects

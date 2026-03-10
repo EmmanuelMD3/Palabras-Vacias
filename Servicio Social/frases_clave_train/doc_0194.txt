@@ -1,0 +1,6 @@
+composable architecture
+Petri nets
+MSS architecture
+timing properties
+proof of composability
+non-functional properties verification

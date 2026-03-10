@@ -1,0 +1,7 @@
+local phenomenon
+IEEE-118 bus
+power system voltage collapse analysis
+critical transmission lines identification
+system critical bus identification
+computer simulation
+Brazil

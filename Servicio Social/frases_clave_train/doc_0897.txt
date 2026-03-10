@@ -1,0 +1,17 @@
+complexly shaped multiply connected domains
+finite element mesh generation
+finite element models
+arbitrary geometrical complexity
+set of simple domains
+parasitic inductances
+printed circuit boards
+programming implementation
+quadrilateral mesh
+domains transformation
+parasitic capacitances
+metal forming processes
+structural engineering models
+iterative basis
+general domain subdivision algorithm
+artificial cut
+automatic step calculation

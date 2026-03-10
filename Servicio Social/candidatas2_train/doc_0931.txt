@@ -1,0 +1,4 @@
+localization performance
+sensor geometry
+initial guess
+correlated noise

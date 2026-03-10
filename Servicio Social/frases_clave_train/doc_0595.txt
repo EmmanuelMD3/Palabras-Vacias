@@ -1,0 +1,7 @@
+calibrated initials
+EM
+recursive models
+categorical variables
+large causal model
+initial values
+simulation

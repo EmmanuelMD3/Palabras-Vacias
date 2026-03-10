@@ -1,0 +1,6 @@
+minorities
+number
+percentage
+pipeline
+instead
+CS

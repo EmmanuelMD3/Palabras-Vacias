@@ -1,0 +1,4 @@
+equation
+steps
+NMR
+QLGA

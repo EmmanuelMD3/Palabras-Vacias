@@ -1,0 +1,4 @@
+the voice features
+known training samples
+second classification scheme
+its nearest class

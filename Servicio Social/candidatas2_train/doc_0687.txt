@@ -1,0 +1,2 @@
+it receives
+initial population

@@ -1,0 +1,15 @@
+generalized spatio-chromatic diffusion
+diffusion
+color images
+thermodynamics
+irreversible transformations
+color channels
+color evolution
+spatial diffusive term
+nonlinear term
+RGB
+CIELAB
+Opponent colors
+IHS
+vector-valued diffusion
+scale-space

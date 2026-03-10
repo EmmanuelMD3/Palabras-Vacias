@@ -1,0 +1,12 @@
+asymptotical stability
+stability
+discrete-time neural networks
+fixed point
+generalized sufficient condition
+Lyapunov function method
+asymmetric connections
+unique attractor
+connection weight matrix
+interval matrix
+symmetric connections
+equilibrium stability

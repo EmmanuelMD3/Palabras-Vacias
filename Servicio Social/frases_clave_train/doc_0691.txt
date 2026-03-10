@@ -1,0 +1,9 @@
+parametric variation
+chaos control
+state-feedback
+diffeomorphisms
+logistic
+continuous flows
+Henon map
+Rossler system
+Lorenz system

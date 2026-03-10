@@ -1,0 +1,17 @@
+visual design steering
+large-scale multidisciplinary design optimization
+computational steering
+optimal design problems
+visual representations
+complex systems
+complexity
+graph morphing visualization method
+n-dimensional optimization
+design variable changes
+constraint redundancies
+constraint tolerances
+computational time
+designer decision making
+3D visualizations
+2D visualizations
+objective function contour smoothness

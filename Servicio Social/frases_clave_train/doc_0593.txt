@@ -1,0 +1,9 @@
+stability analysis
+characteristic polynomials
+interval parameters
+monotonicity
+endpoint values
+interval division method
+transformation algorithm
+Frazer-Duncan theorem
+necessary and sufficient conditions

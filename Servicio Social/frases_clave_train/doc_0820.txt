@@ -1,0 +1,29 @@
+case-based reasoning classifier
+breast biopsy outcome
+benign lesions
+biopsy-proven mammographic cases
+CBR similarity
+Euclidean distance measure
+calcification distribution
+calcification morphology
+calcification number
+mass margin
+mass shape
+mass density
+mass size
+associated findings
+special cases
+age
+Round Robin sampling
+bootstrap
+influential features
+feature combinations
+similarity thresholds
+feature subsets
+highest partial ROC areas
+diagnostic tool
+short-term follow-up
+BI-RADS lexicon
+Hamming distance measure
+Receiver Operating Characteristic analysis
+mammographic lesion classification

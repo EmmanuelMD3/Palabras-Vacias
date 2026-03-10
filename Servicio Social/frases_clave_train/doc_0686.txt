@@ -1,0 +1,15 @@
+STEM
+Secure Telephony Enabled Middlebox
+dynamic applications
+IP telephony
+network infrastructure
+firewalls
+network address translation devices
+network design
+static devices
+application layer
+STEM architecture
+response mechanisms
+network-based vulnerabilities
+SIP protocol
+detection mechanisms

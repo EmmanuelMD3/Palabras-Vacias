@@ -1,0 +1,3 @@
+model checking
+both theoretical
+are mixed

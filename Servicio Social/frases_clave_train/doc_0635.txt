@@ -1,0 +1,5 @@
+optical fiber data buses
+error probabilities
+modulation schemes
+receiver sensitivities
+Manchester bi-phase coding

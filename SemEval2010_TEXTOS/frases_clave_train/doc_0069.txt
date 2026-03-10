@@ -1,0 +1,19 @@
+immedi predecessor
+distribut comput
+relev event
+immedi predecessor track
+transit reduct
+hass diagram
+timestamp
+piggyback
+control inform
+ipt protocol
+common global memori
+messag transfer delai
+vector clock
+track causal
+vector timestamp
+channel order properti
+checkpoint problem
+causal track
+messag-pass

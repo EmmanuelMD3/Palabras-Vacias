@@ -1,0 +1,14 @@
+weak consistency
+wireless data access
+mobile network
+caches
+wireless handheld devices
+data entry
+analytic model
+simulation experiments
+wireless communication cost
+frequently accessed wireless data modeling
+response time reduction
+time-to-live interval
+expiration time prediction
+stale access probability

@@ -1,0 +1,5 @@
+learning
+evolution
+local search
+fuzzy logic controller
+optimal center of gravity defuzzifier

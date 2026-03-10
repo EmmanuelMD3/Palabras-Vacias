@@ -1,0 +1,5 @@
+monoids all polygons
+Mustafin-Poizat conjecture
+omega -stabilizer
+S-polygon
+regular monoid

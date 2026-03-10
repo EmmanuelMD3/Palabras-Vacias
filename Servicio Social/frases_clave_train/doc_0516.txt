@@ -1,0 +1,6 @@
+memory weighting function
+sorting
+autonomous mobile agents
+random walk
+clustering
+algorithm optimization

@@ -1,0 +1,3 @@
+a synchronous motor
+main control objective
+achieve high efficiency

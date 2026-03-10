@@ -1,0 +1,14 @@
+meteorological fuzzy expert system
+subjective user input
+MEDEX
+Mediterranean basin
+numerical weather prediction products
+rules-of-thumb
+uncertainty
+fuzzy set theory
+fuzzy rule base
+fuzzy pattern matching
+wind circulation patterns
+gale-force wind forecasting
+subjective variables
+rule specification

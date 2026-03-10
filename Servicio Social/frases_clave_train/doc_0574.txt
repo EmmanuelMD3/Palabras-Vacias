@@ -1,0 +1,21 @@
+active vibration control
+piezolaminated smart beams
+beam like structures
+bottom surfaces
+finite element model
+Euler-Bernoulli beam theory
+mass
+stiffness
+direct proportional feedback
+constant-gain negative velocity feedback
+Lyapunov feedback
+optimal control strategy
+linear quadratic regulator
+control effectiveness
+impulse loading
+step loading
+random loading
+distributed piezoelectric sensor layers
+distributed piezoelectric actuator layers
+top surfaces
+harmonic loading

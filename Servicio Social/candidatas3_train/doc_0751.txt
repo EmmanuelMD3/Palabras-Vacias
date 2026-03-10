@@ -1,0 +1,2 @@
+aperiodic identified variables
+a cyclic schedule

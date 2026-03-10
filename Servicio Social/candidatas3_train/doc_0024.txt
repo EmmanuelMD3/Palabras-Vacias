@@ -1,0 +1,3 @@
+the scaling functions
+symmetric and stable
+including image compression

@@ -1,0 +1,12 @@
+image fusion
+/sup 18/FDG-PET
+MRI/CT
+radiotherapy planning
+nasopharyngeal carcinomas
+oropharyngeal carcinomas
+superficial tumors
+primary tumors
+normal tissues sparing
+parotid glands
+simultaneous primary site recurrence
+F

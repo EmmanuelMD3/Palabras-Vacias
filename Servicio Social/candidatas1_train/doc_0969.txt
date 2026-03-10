@@ -1,0 +1,7 @@
+mould
+curvature
+merits
+size
+design
+manufacture
+CTE

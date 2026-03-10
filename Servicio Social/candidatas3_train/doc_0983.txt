@@ -1,0 +1,3 @@
+masked image boundaries
+next lateral slice
+preliminary cerebrum segmentation

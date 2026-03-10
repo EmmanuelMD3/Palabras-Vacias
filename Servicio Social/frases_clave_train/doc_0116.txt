@@ -1,0 +1,10 @@
+agent-based product-support logistics system
+XML
+RDF
+maintenance services
+service parts
+industrial systems
+information modelling
+eXtensible Markup Language
+software agents
+Resource Description Framework schema

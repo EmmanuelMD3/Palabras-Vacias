@@ -1,0 +1,12 @@
+speaker identification
+personnel
+artificial neural networks
+backpropagation algorithm
+pre-training
+known voice samples
+classification
+hierarchical architecture
+self-organizing feature map
+feedforward layers
+2D arrays
+radial basis function neural net

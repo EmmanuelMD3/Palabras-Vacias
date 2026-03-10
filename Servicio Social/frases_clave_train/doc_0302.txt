@@ -1,0 +1,11 @@
+arbitrary k-space trajectory
+same-image weight
+sampling density compensation
+random trajectory
+numerical phantom
+MRI image reconstruction
+spiral trajectory
+convolution function
+Nyquist sampling conditions
+iterative algorithm
+weighting function

@@ -1,0 +1,6 @@
+quasi stage order conditions
+SDIRK methods
+embedded error estimator
+numerical tests
+diagonally implicit Runge-Kutta method
+differential-algebraic systems

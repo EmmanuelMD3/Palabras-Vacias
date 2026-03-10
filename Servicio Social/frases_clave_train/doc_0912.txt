@@ -1,0 +1,19 @@
+effect-volume histogram
+dose optimization algorithms
+intensity-modulated radiotherapy
+computer software
+dosimetric conflicts
+treatment goals
+decision-making process
+partial volumes
+low doses
+treatment risks
+high doses
+volume element weights
+treatment planning
+objective function
+insufficient target coverage
+exponential law
+cell survival
+one-sided quadratic penalties
+quadratic overdose penalty

@@ -1,0 +1,7 @@
+LSTM
+context-free languages
+performance
+short-term memory recurrent nets
+context-sensitive languages
+nonregular language learning
+recurrent neural networks

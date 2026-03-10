@@ -1,0 +1,9 @@
+stochastic averaging
+feedback control
+nonlinear systems
+random excitations
+feedback stochastic controls
+Ito stochastic differential equation
+Rayleigh approximation
+steady state
+transient response

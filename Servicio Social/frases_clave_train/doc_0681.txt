@@ -1,0 +1,12 @@
+feedback waves
+noncollocated feedback wave control
+control design
+wave transmission
+control force
+complex closed form solution
+vibration energy
+vibration free zone
+standing waves
+longitudinal vibration control
+collocated feedback wave control
+wave reflection

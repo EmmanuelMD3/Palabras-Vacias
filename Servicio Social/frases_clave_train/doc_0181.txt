@@ -1,0 +1,6 @@
+pairwise thermal entanglement
+five-qubit Heisenberg XX chain
+odd-qubit chain
+critical temperature
+four-qubit Heisenberg XX chain
+even-qubit chain

@@ -1,0 +1,12 @@
+q-decomposit
+resourc alloc
+resourc manag
+reward separ agent
+heurist search
+real-time dynam program
+complex stochast resourc alloc problem
+plan agent
+markov decis process
+stochast environ
+margin revenu bound
+margin revenu

@@ -1,0 +1,6 @@
+neural networks
+optimal filtering
+linear filtering
+binary telegraph signal
+observations
+discrete white noise

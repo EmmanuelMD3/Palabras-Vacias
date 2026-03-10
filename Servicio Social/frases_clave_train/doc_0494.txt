@@ -1,0 +1,21 @@
+piezoelectricity
+shear actuators
+quasi-static equations
+finite element formulation
+piezoelastically
+adaptive composite sandwich beam
+piezoelectric constants
+transverse electric field
+extension-bending actuation
+extension-bending actuation
+shear-induced actuation
+sandwich model
+sublaminates
+linear quadratic regulator
+modal space control
+active stiffness
+active damping
+dynamic response
+modal domain
+finite element procedure
+extension-bending actuators

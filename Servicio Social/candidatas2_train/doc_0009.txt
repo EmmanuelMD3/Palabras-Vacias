@@ -1,0 +1,4 @@
+300 MHz
+high field
+RF field
+spatial distribution

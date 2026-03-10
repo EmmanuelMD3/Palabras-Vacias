@@ -1,0 +1,14 @@
+renal multiphase contrast-enhanced angiography
+spiral in-plane readout
+3D partition encoding
+renal vasculature
+spatial resolution
+deblurring
+off-resonance frequencies
+image quality
+reduced contrast-to-noise ratio
+3D spiral MRI
+flow artifacts
+fast pulse sequence
+image reconstruction
+FLASH sequence

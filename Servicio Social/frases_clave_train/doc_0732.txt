@@ -1,0 +1,14 @@
+hybrid active filter
+active filter
+harmonic elimination
+harmonic currents
+passive filter
+equivalent output voltage
+nonlinear load
+DC-link voltage regulation
+computer simulation
+scaled-down laboratory prototype
+harmonic currents suppression
+converter power rating reduction
+active filter equivalent voltage
+voltage source inverter

@@ -1,0 +1,10 @@
+semantic data broadcast
+adaptive chunking
+mobile clients
+semantic descriptor
+data chunking
+answerability
+data affinity index
+mobile databases
+mobile computing
+query processing

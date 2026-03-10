@@ -1,0 +1,4 @@
+ease
+mechanism
+rank
+kind

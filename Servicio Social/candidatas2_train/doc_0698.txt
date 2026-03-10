@@ -1,0 +1,5 @@
+concurrent use
+a computation
+perform learning
+a computation
+vector quantization

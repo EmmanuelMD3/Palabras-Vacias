@@ -1,0 +1,15 @@
+wave propagation
+solid materials
+railway engineering
+modelling
+high-speed train related ground vibrations
+unbounded media
+railway structural components
+scaled boundary finite element method
+element matrices
+solution procedures
+Lagrange multipliers
+dynamical response
+railroad section
+3D modelling
+nonlinear finite element iteration scheme

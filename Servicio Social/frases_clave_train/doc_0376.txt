@@ -1,0 +1,20 @@
+degrees of freedom
+multilevel drives
+series connection
+semiconductors
+power electronics
+medium voltages
+variable-speed drives
+multilevel direct torque control strategy
+harmonic distortions
+torque dynamics
+voltage step gradients
+switching frequency
+bearing currents
+common-mode voltage reduction
+delay estimation
+industrial power systems
+insulated gate bipolar transistors
+state estimation
+fixed-frequency dynamic control
+1 to 10 kV

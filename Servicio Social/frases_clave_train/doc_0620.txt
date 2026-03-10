@@ -1,0 +1,12 @@
+Halden Reactor Project
+thermal performance monitoring
+PEANO
+calibration
+artificial intelligence
+PWR
+TEMPO
+BWR
+steam turbine cycles
+fuzzy logic
+steam generators
+feedwater flow

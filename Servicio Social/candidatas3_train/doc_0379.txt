@@ -1,0 +1,3 @@
+each scene point
+spatially varying properties
+generalized mosaic paradigm

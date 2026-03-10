@@ -1,0 +1,3 @@
+output matrices
+time delay
+error variance

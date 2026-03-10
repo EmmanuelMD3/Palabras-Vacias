@@ -1,0 +1,8 @@
+attributes
+city
+reality
+success
+Germany
+Xpower
+DMS
+HEW

@@ -1,0 +1,6 @@
+feature recognition algorithms
+general-purpose feature detection techniques
+face sets
+National Design Repository
+convex hull
+concavity

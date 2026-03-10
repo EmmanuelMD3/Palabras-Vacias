@@ -1,0 +1,16 @@
+weapon classif
+internod commun
+sensorboard
+self orient
+data fusion
+trajectori
+rang
+calib
+weapon type
+calib estim accuraci
+calib estim
+wireless sensor network-base mobil countersnip system
+helmetmount microphon arrai
+1degre trajectori precis
+sensor network
+acoust sourc local

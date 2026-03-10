@@ -1,0 +1,5 @@
+basis
+problem
+speed
+updating
+SMC

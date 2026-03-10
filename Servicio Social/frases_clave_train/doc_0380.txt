@@ -1,0 +1,5 @@
+insurance company
+survival probability
+return rate
+Poisson premium stream
+probability density function

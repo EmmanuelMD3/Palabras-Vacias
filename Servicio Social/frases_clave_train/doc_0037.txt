@@ -1,0 +1,16 @@
+min-max theorem
+feedback vertex sets
+linear system
+bipartite tournament
+cycle-vertex incidence matrix
+all-one vector
+covering cycles
+strongly polynomial time algorithms
+feedback vertex set problem
+cycle packing problem
+necessary sufficient condition
+totally dual integral system
+NP-complete problem
+graphs
+combinatorial optimization problems
+linear programming duality theory

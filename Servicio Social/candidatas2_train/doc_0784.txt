@@ -1,0 +1,3 @@
+Adams methods
+Taylor series
+Scheifele technique

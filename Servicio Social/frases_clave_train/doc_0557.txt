@@ -1,0 +1,9 @@
+integration
+real analytic functions
+rational functions
+addition
+multiplication
+polynomial
+Pfaffian functions
+lower bounds
+L/sub infinity /-norm

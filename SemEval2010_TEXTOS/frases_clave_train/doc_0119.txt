@@ -1,0 +1,15 @@
+boost
+inform retriev
+learn to rank
+document retriev
+rank model
+train rank model
+rankboost
+novel learn algorithm
+weak ranker
+re-weight train data
+train process
+machin learn
+support vector machin
+new learn algorithm
+rank model tune

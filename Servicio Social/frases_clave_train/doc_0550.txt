@@ -1,0 +1,9 @@
+transaction
+mobile database
+data replication
+multidatabase
+mobile database replication
+Transaction-Level Result-Set Propagation
+distributed database
+mobile computing
+conflict reconciliation

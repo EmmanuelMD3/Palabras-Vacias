@@ -1,0 +1,15 @@
+scalable techniques
+nonparametric statistics
+real time robot learning
+locally weighted learning
+training algorithms
+complex phenomena
+autonomous adaptive control
+devil-sticking
+pole-balancing
+humanoid robot arm
+inverse-dynamics learning
+statistical neural networks techniques
+memory-based learning
+purely incremental learning
+nonparametric regression

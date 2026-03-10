@@ -1,0 +1,3 @@
+main points
+exponential complexity
+in particular

@@ -1,0 +1,2 @@
+perform analog operations
+a practical realization

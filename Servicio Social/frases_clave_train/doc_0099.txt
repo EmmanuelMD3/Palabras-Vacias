@@ -1,0 +1,9 @@
+vehicle travel time
+AGV
+material handling systems
+flexible manufacturing system
+FMS
+vehicle dispatching rules
+nearest vehicle selection rule
+longest idle vehicle selection rule
+automatic guided vehicle

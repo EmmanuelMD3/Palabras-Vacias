@@ -1,0 +1,10 @@
+genetic algorithm
+power line
+continuous load variation
+frequency transients
+integral controller gains
+frequency bias factors
+power systems automatic generation control parameters optimization
+control design
+interconnected power networks
+control simulation

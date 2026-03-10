@@ -1,0 +1,6 @@
+timed automata
+concurrent systems
+security property
+real-time systems
+time-critical system
+noninterference notion

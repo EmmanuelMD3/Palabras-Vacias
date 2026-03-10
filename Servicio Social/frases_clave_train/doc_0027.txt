@@ -1,0 +1,18 @@
+ventilation-perfusion ratio
+signal intensity
+human lung
+arterial spin labeling techniques
+perfusion images
+flow-sensitive alternating inversion recovery
+logarithmic normal distribution
+multiple inert gas elimination
+MRI
+nonsimultaneous acquisition
+oxygen-enhanced techniques
+ventilation images
+gas exchange efficiency
+pathomechanisms
+time delay
+pixel-by-pixel maps
+pulmonary embolism
+chronic obstructive pulmonary disease

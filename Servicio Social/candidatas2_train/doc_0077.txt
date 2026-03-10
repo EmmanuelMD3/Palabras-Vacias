@@ -1,0 +1,4 @@
+adaptive filtering
+separating irrelevance
+independent optimization
+irrelevance reduction

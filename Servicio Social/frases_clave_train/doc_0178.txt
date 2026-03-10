@@ -1,0 +1,11 @@
+approximate confidence intervals
+difference of two proportions
+binomial proportion
+data analysis
+t-approximation
+uncertainty
+t-test
+normal distribution
+coverage probability
+variance estimation
+pseudo-sample proportion

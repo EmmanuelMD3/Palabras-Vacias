@@ -1,0 +1,9 @@
+components
+dependency
+interconnection
+MDR
+fields
+reusable
+HIS
+MDR
+MOM

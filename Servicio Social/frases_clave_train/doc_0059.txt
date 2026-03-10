@@ -1,0 +1,12 @@
+pull systems
+transporters
+metamodelling approach
+processing time variation
+demand variation
+batch size
+throughput rate
+average waiting time
+machine utilization
+performance measures
+push systems
+multiproduct multiline multistage production system

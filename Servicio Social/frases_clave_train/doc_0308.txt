@@ -1,0 +1,7 @@
+Kontiki
+electronic files
+centralized servers
+enduser machines
+underutilized bandwidth
+redundant file requests
+P2P-like bandwidth harvesting technology

@@ -1,0 +1,4 @@
+criticality
+transfer
+dynamics
+rate

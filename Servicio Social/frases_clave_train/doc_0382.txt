@@ -1,0 +1,12 @@
+dependent types
+dependent types
+Haskell
+precise type system
+type class mechanism
+counterfeit type-level copies
+type constructors
+data constructors
+datatypes
+data validity
+dependent typing
+functional programming

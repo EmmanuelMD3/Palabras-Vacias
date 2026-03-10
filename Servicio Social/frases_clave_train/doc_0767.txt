@@ -1,0 +1,5 @@
+post-projected Runge-Kutta methods
+index-2 differential-algebraic equations
+numerical approximation
+order of convergence
+projected methods

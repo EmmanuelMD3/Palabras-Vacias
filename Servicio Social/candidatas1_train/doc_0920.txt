@@ -1,0 +1,6 @@
+accuracy
+technique
+LVQ2
+Pham
+LVQ
+SPC

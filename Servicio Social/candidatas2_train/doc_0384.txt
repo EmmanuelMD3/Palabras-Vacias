@@ -1,0 +1,5 @@
+experimental tests
+noise control
+computational efficiency
+severe conditions
+vibration signal

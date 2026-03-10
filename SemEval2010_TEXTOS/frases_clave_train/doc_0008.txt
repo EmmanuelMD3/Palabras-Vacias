@@ -1,0 +1,14 @@
+distribut constraint optim
+pseudotre arrang
+agent
+maximum sequenti path cost
+cross-edg pseudotre
+multi-agent system
+edg-travers heurist
+job shop schedul
+resourc alloc
+teamwork coordin
+multi-valu util function
+global util
+distribut constraint satisfact and optim
+multi-agent coordin

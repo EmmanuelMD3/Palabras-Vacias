@@ -1,0 +1,10 @@
+lighting variability
+convex Lambertian object
+principal eigenmodes
+irradiance
+spherical harmonics
+surface normal vectors
+analytic principal component analysis
+five-dimensional subspace
+principal eigenvalues
+radiance

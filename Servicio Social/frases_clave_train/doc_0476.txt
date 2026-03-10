@@ -1,0 +1,18 @@
+robust speech recognition
+probabilistic union models
+modeling
+partial frequency-band corruption
+missing feature theory
+noisy bands
+time-varying band characteristics
+local frequency-band information
+automatic order selection
+partial feature stream corruption
+noise reduction techniques
+stationary noise
+nonstationary noise
+TIDIGITS database
+speaker-independent connected digit recognition
+additive noise
+noise characteristics
+partial real-world noise

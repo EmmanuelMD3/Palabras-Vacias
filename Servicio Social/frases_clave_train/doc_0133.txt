@@ -1,0 +1,7 @@
+repetitive elements
+complete genomes
+biological data
+data distribution
+queries
+distributed Repeat Sequence Database
+performance evaluation

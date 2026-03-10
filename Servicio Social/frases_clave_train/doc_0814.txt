@@ -1,0 +1,6 @@
+parallelizing
+evolutionary algorithms
+convergence speed
+convergence probability
+multimodal test function
+parallel evolutionary algorithms

@@ -1,0 +1,9 @@
+servo system
+multirate sampling control
+digital control systems
+feedforward
+tracking
+feedback
+disturbance rejection
+position control
+hard disk drive

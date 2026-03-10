@@ -1,0 +1,8 @@
+cache invalidation
+mobile location-dependent information services
+location-dependent information
+data caching
+cache replacement
+mobile computing
+semantic caching
+performance evaluation

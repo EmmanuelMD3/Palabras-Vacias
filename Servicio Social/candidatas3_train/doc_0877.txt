@@ -1,0 +1,3 @@
+large strain recovery
+repeatable actuation behavior
+be volume preserving

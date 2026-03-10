@@ -1,0 +1,4 @@
+application
+detection
+efficacy
+onset

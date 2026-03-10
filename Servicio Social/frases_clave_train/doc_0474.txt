@@ -1,0 +1,10 @@
+pricing
+finance
+financial management
+Aurora Financial Management System
+Monte Carlo simulation
+Backward Induction methods
+numerical pricing kernel
+stochastic processes
+derivative pricing
+investment strategies

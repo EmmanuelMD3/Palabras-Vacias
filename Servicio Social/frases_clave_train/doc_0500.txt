@@ -1,0 +1,7 @@
+complexity results
+default logic
+tractable subsets
+reasoning
+extended logic programs
+complexity classes
+nonmonotonic reasoning

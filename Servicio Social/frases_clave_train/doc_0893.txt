@@ -1,0 +1,9 @@
+individual rationality
+weak reduced game property
+converse reduced game property
+weak symmetry
+transitive 4-person TU game
+redundant
+market game core axiomatization
+nonempty games
+superadditive games

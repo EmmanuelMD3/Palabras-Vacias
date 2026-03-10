@@ -1,0 +1,4 @@
+distance
+effectiveness
+quality
+rate

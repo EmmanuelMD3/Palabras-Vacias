@@ -1,0 +1,6 @@
+MHD simulation
+Fujitsu VPP5000/56
+vector-parallel supercomputer
+HPF MHD code
+parallel computation
+magnetohydrodynamic simulation

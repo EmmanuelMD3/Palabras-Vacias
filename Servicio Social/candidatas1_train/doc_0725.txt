@@ -1,0 +1,6 @@
+end
+kind
+number
+meantime
+rise
+CM

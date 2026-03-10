@@ -1,0 +1,6 @@
+fuzzy systems
+many-valued implications
+SISO
+universal approximator
+single input and single output fuzzy systems
+Boolean implication

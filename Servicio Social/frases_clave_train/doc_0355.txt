@@ -1,0 +1,21 @@
+real-time monitoring system
+learning vector quantization
+LVQ
+condition monitoring
+fault diagnosis
+fault signatures
+health monitoring
+fault database
+pattern vectors
+large sampling time
+neural networks
+fast learning model
+competitive learning model
+enforcement training
+fault diagnostic capability
+pattern recognition technique
+deterioration identification
+real-time failure cause identification
+pattern correlation
+CNC machine centre
+coolant system

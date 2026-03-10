@@ -1,0 +1,7 @@
+OpenMP
+programming model
+shared memory parallel systems
+cache-coherent Non-Uniform Memory Access
+Single Program Multiple Data
+HPF
+parallel programming

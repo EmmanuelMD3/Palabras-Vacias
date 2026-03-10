@@ -1,0 +1,3 @@
+its value
+both linear
+in view

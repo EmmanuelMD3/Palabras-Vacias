@@ -1,0 +1,17 @@
+separability
+quantum entanglement
+many spin system
+critical point
+separable states
+matrix operator
+unity matrix
+entangled state
+random spin
+charge conjugation
+Einstein-Podolsky-Rosen state
+partial transposition method
+nonextensive entropy criterion
+quantum computing
+teleportation
+cryptography
+Werner density matrices

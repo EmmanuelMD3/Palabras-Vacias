@@ -1,0 +1,6 @@
+fuzzy MCDM model
+anti-ideal concepts
+dimensionless indices
+fuzzy number ranking
+ideal concepts
+multicriterion decision-making

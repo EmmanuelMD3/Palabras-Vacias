@@ -1,0 +1,28 @@
+robust
+adapt filter
+adapt filter
+cross-benchmark evalu
+regular
+logist regress
+lr
+rocchio
+topic detect
+util function
+cross-corpu paramet optim
+relev feedback
+inform retriev
+topic track
+statist learn
+systemat method for paramet tune across multipl corpora
+extern corpu
+valid set
+granular differ
+cost function
+penalti ratio
+optim criterion
+probabilist threshold calibr
+rocchio-style method
+posterior probabl
+sigmoid function
+bia
+gaussian

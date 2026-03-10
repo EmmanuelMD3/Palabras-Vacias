@@ -1,0 +1,3 @@
+feasible set
+vertex set
+and each

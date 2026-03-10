@@ -1,0 +1,5 @@
+are accurate
+time t
+decay rate
+rare event
+straightforward simulations

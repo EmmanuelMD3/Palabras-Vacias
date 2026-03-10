@@ -1,0 +1,17 @@
+performance evaluation
+FIFO queue
+class library
+easy-to-use interface
+queuing simulations
+parallel discrete simulations
+general-purpose simulation libraries
+state vectors
+dynamic data structures
+embedded data structures
+operational history
+first-in-first-out characteristics
+garbage collection
+time warp simulation
+simulation languages
+object oriented method
+state management

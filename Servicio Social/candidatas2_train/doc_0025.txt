@@ -1,0 +1,6 @@
+10 mm
+clinical parameters
+prescription dose
+third case
+gantry positions
+cost function

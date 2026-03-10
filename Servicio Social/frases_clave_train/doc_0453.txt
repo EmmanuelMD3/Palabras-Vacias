@@ -1,0 +1,8 @@
+Counter-Propagation Network
+neural-fuzzy system
+hybrid learning
+structure learning
+initial parameters setting
+gradient descent
+self-organizing fuzzy system
+back-propagation learning scheme

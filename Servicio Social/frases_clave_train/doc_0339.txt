@@ -1,0 +1,9 @@
+dense coding
+entangled states
+Alice
+Bob
+pairwise entangled qubits
+maximally entangled qubits
+classical information gain efficiency
+quantum information processing
+quantum communication

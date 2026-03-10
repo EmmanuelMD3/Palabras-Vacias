@@ -1,0 +1,20 @@
+modeling
+periodic oscillations
+genetic regulation
+genetic regulatory system
+gene-protein systems
+nonlinear model
+time delay
+two-gene system
+autoregulatory feedback loop
+hysteretic properties
+jumping dynamics
+singular perturbation theory
+biochemical reactions
+stability region
+oscillations stability
+nonlinearly negative feedback loops
+nonlinearly positive feedback loops
+bifurcation
+circadian rhythm
+relaxation oscillator

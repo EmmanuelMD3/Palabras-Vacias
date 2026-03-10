@@ -1,0 +1,2 @@
+active vibration control
+mass and stiffness

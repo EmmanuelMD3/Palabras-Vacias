@@ -1,0 +1,17 @@
+vector rotational CORDIC algorithms
+angle quantization
+digital signal processing applications
+design index
+vector rotational operation
+unified design framework
+low-latency rotational algorithms
+searching algorithms
+optimization problem
+scaling operations
+low-complexity rotational VLSI circuits
+fixed-point implementations
+DSP applications
+greedy searching algorithm
+low-latency rotational architectures
+high-speed rotational VLSI circuits
+trellis-based searching algorithm

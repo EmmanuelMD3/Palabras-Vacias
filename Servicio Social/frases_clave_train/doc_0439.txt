@@ -1,0 +1,9 @@
+n-dimensional uniform random variable
+unit hypercube
+limit condition
+recursive method
+Gauss-Legendre quadrature formulae
+failure probabilities computation
+reliability analysis applications
+multiple integrals calculation
+tail approximation

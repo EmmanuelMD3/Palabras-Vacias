@@ -1,0 +1,17 @@
+multi-dimension rang queri
+dim
+sensor network
+multidimension rang queri
+distribut index
+geograph rout
+queri cost
+central index
+distribut data structur
+datacentr storag system
+event insert
+index techniqu
+queri flood
+effici correl
+local-preserv geograph hash
+asymptot behavior
+normal event distribut

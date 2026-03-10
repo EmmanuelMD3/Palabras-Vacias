@@ -1,0 +1,16 @@
+rotorcraft
+helicopter noise
+vibration control
+active trailing edge flap
+piezoelectric tube actuator
+lever-cusp hinge amplification device
+finite-element model
+inertial loading
+design
+shear tube actuator flap
+bench top testing
+12 inch flap
+12 inch
+induced-shear tube actuator
+helicopter vibration
+aerodynamic loading

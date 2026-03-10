@@ -1,0 +1,11 @@
+LP relaxations
+polynomial programming
+global minimization
+multivariate polynomial
+semi-algebraic set
+polynomial inequalities
+RLT procedure
+real algebraic geometry
+semidefinite programming relaxations
+reformulation linearization technique
+constraint products

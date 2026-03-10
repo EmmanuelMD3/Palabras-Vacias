@@ -1,0 +1,4 @@
+the monomorphism restriction
+resolution of overloading
+explicit dictionary passing
+including the resolution

@@ -1,0 +1,4 @@
+torque ripple
+RMS value
+average value
+in terms

@@ -1,0 +1,12 @@
+correlation
+long data sequences
+coherent receivers
+received signal
+fast Fourier transform
+time delay information
+latency
+mission critical real time applications
+parallel algorithm
+multiprocessor environment
+computation
+transmitted signal

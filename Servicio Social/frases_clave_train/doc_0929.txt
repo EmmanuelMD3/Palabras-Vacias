@@ -1,0 +1,17 @@
+angular disparity
+small tumors
+image quality
+computer simulation
+spherical tumor
+hemispherical breast
+gamma camera
+pinhole collimator
+pinhole-to-tumor distances
+ray tracing technique
+image sets
+axial spatial resolution
+in-plane spatial resolution
+clinical choice
+emission tuned aperture computed tomography scintimammography
+pinhole-to-detector distances
+tuned aperture computed tomography reconstruction method

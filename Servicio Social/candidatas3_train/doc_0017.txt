@@ -1,0 +1,4 @@
+automatic generation control
+global optimum values
+control a system
+integral controller gains

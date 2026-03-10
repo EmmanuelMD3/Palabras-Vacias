@@ -1,0 +1,6 @@
+state enumeration problem
+K-shortest paths problem
+CPU time
+multi-mode components reliability
+sequential failure states generation algorithm
+network failure states

@@ -1,0 +1,12 @@
+genetic algorithms
+fuzzy optimal profit problem
+fuzzy optimization problem
+business
+economics
+fuzzy price
+quadratic fuzzy demand function
+linear cost function
+approximate solution
+theoretical proofs
+linear fuzzy demand function
+algorithm correctness validation

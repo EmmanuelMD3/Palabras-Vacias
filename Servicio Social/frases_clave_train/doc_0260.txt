@@ -1,0 +1,11 @@
+feedback
+weighting filters
+IC manufacture
+multivariable control systems
+MIMO systems
+H/sub infinity / control
+servo systems
+model uncertainty
+motion control
+mechatronics
+mu synthesis

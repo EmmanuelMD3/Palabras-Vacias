@@ -1,0 +1,4 @@
+shear vibrations simultaneously
+resulting discretized equations
+including the quadratic
+into the BLS

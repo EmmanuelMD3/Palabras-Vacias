@@ -1,0 +1,19 @@
+torsional vibration
+twisting
+anisotropic composite laminates
+composite laminate
+piezoelectric actuators
+dynamic analytical model
+anisotropic piezoelectric laminate
+extension-twisting coupling effect
+Hamilton principle
+reduced bending stiffness
+equations of motion
+in-plane displacements
+out-of-plane displacement
+structural coupling
+harmonic excitation
+parametric study
+extension -twisting coupling
+material anisotropy
+PZT

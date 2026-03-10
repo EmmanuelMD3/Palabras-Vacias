@@ -1,0 +1,14 @@
+quantum computing
+spin qubits
+semiconductor structures
+semiconductor heterostructures
+low temperatures
+high magnetic fields
+spin-spin interactions
+dominant carrier
+spin dynamics
+integer quantum Hall regime
+2D electron gas
+2DEG
+spin-excitons exchange
+integer QHE

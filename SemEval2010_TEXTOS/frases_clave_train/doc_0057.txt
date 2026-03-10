@@ -1,0 +1,13 @@
+dead-reckon
+local lag
+multiplay game
+consist
+gs-dr-ll
+network transmiss delai
+time warp
+accur state
+correct
+physic clock
+usabl and fair
+distribut multi-player game
+continu replic applic

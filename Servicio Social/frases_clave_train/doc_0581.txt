@@ -1,0 +1,12 @@
+computational model
+learned avoidance behavior
+one-way avoidance experiment
+reinforcement learning
+temporal-difference algorithm
+instrumentally conditioned components
+classically conditioned components
+reduced latency
+animal behavior
+traditional two-process learning mechanism
+proprioceptive feedback
+internal clock

@@ -1,0 +1,9 @@
+DIMSIMs
+stiff differential systems
+diagonally implicit multistage integration methods
+reliable estimation
+local discretization error
+interpolants
+nonlinear systems of equations
+simplified Newton iterations
+experimental Matlab code

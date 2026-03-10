@@ -1,0 +1,2 @@
+basic architecture
+major functions

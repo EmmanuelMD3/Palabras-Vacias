@@ -1,0 +1,7 @@
+Steinmetz system design
+three-phase current symmetrization
+unbalanced voltage conditions
+optimization methods
+general analytical equations
+power system control design
+balanced voltage assumption

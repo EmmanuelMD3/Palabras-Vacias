@@ -1,0 +1,6 @@
+asynchronous cellular automata
+cellular automata
+synchronous automata
+random noise
+fault tolerance
+discrete dynamical systems

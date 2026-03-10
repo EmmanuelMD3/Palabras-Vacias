@@ -1,0 +1,6 @@
+design
+effect
+performance
+reciprocal
+GA
+SPT

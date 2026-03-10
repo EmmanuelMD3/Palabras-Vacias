@@ -1,0 +1,10 @@
+similar case retrieval
+corresponding indices
+auto-fuzzy thesaurus
+cross-fuzzy thesaurus
+mutually distinct indices
+case-based retrieval
+case similarity measure
+relationship indices
+decision making support system
+problem solving

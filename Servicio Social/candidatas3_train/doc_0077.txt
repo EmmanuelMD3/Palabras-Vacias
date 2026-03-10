@@ -1,0 +1,4 @@
+redundancy reduction units
+of the irrelevance
+independent functional units
+minimize the delay

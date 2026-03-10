@@ -1,0 +1,10 @@
+probabilistic control charts
+linguistic data
+membership functions
+average run length
+sensitivity
+fuzzy control charts
+control chart construction
+fuzziness degree
+fuzzy subsets
+porcelain products

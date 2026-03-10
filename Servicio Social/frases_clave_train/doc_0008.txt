@@ -1,0 +1,8 @@
+asymptotic behavior
+min-max value
+finite-state zero-sum discounted stochastic game
+discount rate
+uniform polynomial convergence rate
+N-stage game
+semi-algebraic set theory
+two-player zero-sum finite-state stochastic games

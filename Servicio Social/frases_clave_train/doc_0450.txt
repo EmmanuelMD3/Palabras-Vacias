@@ -1,0 +1,9 @@
+technology CAD
+SiGe
+heterojunction field effect transistors
+fabrication process
+material parameters
+mobility model
+linear transconductance
+uniform channel
+0.5 micron

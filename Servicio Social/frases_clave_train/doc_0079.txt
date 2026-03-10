@@ -1,0 +1,9 @@
+homogenization
+deterministic control
+L/sup infinity / running cost
+value function
+convergence
+cell problem
+calculus of variations
+averaging
+optimal control

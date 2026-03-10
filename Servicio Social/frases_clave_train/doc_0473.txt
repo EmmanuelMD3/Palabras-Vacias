@@ -1,0 +1,6 @@
+global action rules
+action rules
+query answering system
+distributed knowledge mining
+attributes
+e-commerce

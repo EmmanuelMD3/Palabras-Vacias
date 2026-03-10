@@ -1,0 +1,15 @@
+scout
+promot
+connector
+rate
+nearest neighbor
+collabor filter
+recommend
+recommend system
+aggreg process
+neighborhood
+collabor filter algorithm
+purchas
+opinion
+list rank accuraci
+user-base and item-base algorithm

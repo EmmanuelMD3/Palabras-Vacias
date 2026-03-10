@@ -1,0 +1,5 @@
+efficiently
+acquire
+analyse
+store
+transform

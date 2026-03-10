@@ -1,0 +1,11 @@
+analytic center cutting plane method
+semidefinite feasibility problems
+operations research
+nonempty bounded convex body
+symmetric positive semidefinite matrices
+oracle
+iteration
+approximate analytic center
+working set
+worst-case complexity
+maximum ball radius

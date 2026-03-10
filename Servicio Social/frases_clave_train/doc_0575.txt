@@ -1,0 +1,13 @@
+X-ray angiograms
+wavefront propagation algorithm
+wavefront propagation principle
+quantitative coronary artery analysis
+vessel segment
+lesion quantification
+wavepath method
+bifurcation
+sidebranch pathline
+corrections
+correct vessel
+user-defined startpoints
+user-defined endpoints

@@ -1,0 +1,8 @@
+diagnosis
+resource
+basis
+dependency
+elements
+intensity
+thermodynamic
+hydrodynamic

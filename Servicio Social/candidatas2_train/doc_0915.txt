@@ -1,0 +1,3 @@
+flux equations
+current model
+proposed algorithm

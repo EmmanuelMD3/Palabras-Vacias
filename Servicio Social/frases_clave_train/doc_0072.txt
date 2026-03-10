@@ -1,0 +1,13 @@
+stability
+numerical solution
+heat equation
+nonlocal boundary conditions
+integral boundary conditions
+finite differences
+matrices
+semidiscrete problem
+sectorial resolvent condition
+fully discrete numerical process
+one-step methods
+maximum norm
+space discretization

@@ -1,0 +1,9 @@
+fuzzy logic approach
+combined cycle power plants
+supervisory control
+dynamic model
+fuzzy PID schemes
+maximum thermal stress limits
+start-up schedule
+PID control
+steam turbine plant start-up time minimization

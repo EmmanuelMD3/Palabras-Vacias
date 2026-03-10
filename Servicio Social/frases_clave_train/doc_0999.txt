@@ -1,0 +1,12 @@
+dataflow computer
+sequential programs
+precedent firing instructions
+hardware scale
+waiting operands
+processing performance
+switching process
+precedent firing control
+execution time
+execution acceleration
+parallel processing
+computer architecture

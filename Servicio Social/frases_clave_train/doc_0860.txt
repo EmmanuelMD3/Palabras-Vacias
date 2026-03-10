@@ -1,0 +1,11 @@
+schema evolution
+data warehouses
+data sources
+source relations
+organizational decision-making
+system maintenance
+containment
+structural view maintenance
+view adaptation
+SQL query
+data analysis

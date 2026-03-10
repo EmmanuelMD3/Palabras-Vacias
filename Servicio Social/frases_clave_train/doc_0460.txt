@@ -1,0 +1,8 @@
+vibration control
+controllers
+tuned mass damper
+variable gain control system
+brake system
+actuator
+active control
+auxiliary mass displacement suppression

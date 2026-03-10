@@ -1,0 +1,2 @@
+a chosen attribute
+handling global queries

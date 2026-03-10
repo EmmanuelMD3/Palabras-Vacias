@@ -1,0 +1,23 @@
+on-line robust processing techniques
+normally distributed measurement noise
+classical least-squares procedures
+Fourier spectra
+frequency response function
+measurement outliers
+computation speed
+robust regression
+optical vibration measurements
+laser Doppler vibrometer
+measurement dropout elimination
+speckle dropout
+laser interferometer
+modal analysis
+vibration velocity
+iterative technique
+low-pass filtering
+median filtering
+signal sampling
+order statistics
+sinusoidal excitation
+broadband excitation
+frequency spectra

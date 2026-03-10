@@ -1,0 +1,5 @@
+operating conditions
+precursor concentration
+atmospheric pressure
+design space
+susceptor temperature

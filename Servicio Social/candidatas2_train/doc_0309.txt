@@ -1,0 +1,6 @@
+mu GA
+objective function
+detection technique
+optimization process
+and suppression
+including formulation

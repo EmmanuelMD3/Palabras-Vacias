@@ -1,0 +1,19 @@
+node-capacitated ring routing
+node-capacitated routing problem
+undirected ring network
+fractional relaxation
+node-capacitated multicommodity flow problem
+feasibility problem
+undirected graphs
+distance inequality
+distance functions
+nonnegative node weights
+double-cut condition
+integer-valued node capacities
+half-integral multicommodity flow
+integer-valued multicommodity flow
+violating double-cut
+Farkas lemma
+node capacity integrality
+combinatorial strongly polynomial algorithm
+edge-cut criterion

@@ -1,0 +1,8 @@
+merging algorithm
+suffix trees
+integer alphabets
+linear time
+index data structures
+coupled BFS
+breadth-first search
+recursive construction

@@ -1,0 +1,13 @@
+frequency stability
+microwave oscillators
+dual-mode sapphire-loaded cavity resonator
+whispering gallery resonator-oscillator
+9 GHz
+temperature control circuit
+difference frequency
+frequency standard
+temperature stabilisation
+finite-element analysis
+whispering gallery modes
+high-quality factor
+270 K

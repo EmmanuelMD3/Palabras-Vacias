@@ -1,0 +1,6 @@
+accuracy
+choice
+effect
+quality
+Varian
+DVH

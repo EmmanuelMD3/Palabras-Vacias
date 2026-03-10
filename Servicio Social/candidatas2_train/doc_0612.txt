@@ -1,0 +1,2 @@
+constrained capability
+dynamic topology

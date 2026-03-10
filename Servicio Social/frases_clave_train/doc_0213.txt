@@ -1,0 +1,9 @@
+Glasgow Haskell compiler inliner
+higher-order languages
+abstractions
+executable program
+performance
+algorithmic aspects
+functional programming
+functional language
+optimising compiler

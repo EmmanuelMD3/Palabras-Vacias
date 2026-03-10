@@ -1,0 +1,8 @@
+car-caravan snaking
+pintle pin friction
+mathematical model
+car-trailer system
+linear system
+critical snaking speed
+Coulomb friction damping
+amplitude-dependent behaviour

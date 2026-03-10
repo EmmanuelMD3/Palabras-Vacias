@@ -1,0 +1,16 @@
+interrupted machining
+numerical model
+finite difference method
+continuous machining
+time varying milling processes
+orthogonal cutting
+heat transfer
+tool-rake face contact zone
+shear energy
+primary zone
+friction energy
+temperature distribution
+tool temperature prediction
+chip temperature prediction
+first-order dynamic system
+thermal properties

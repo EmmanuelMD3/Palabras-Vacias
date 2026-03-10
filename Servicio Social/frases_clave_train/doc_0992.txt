@@ -1,0 +1,25 @@
+feature-preserving volumetric technique
+merge surface triangulations
+surface triangulations
+surface merging procedures
+adaptive background grid
+sharp edges
+Delaunay triangulation method
+local voxelizations
+ridges
+Boolean operations
+iso-surfaces extraction
+multi-component objects
+simple geometrical entities
+complex engineering applications
+overlapping components
+images
+mesh generation
+unstructured grids
+discrete data
+surface intersection
+geometric modelling
+sharp comers
+point enrichment technique background grid
+arterial surfaces
+haemoglobin molecule

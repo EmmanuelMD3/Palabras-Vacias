@@ -1,0 +1,6 @@
+delayed state feedback
+linear time-delay systems
+continuous pole placement method
+delay differential equations
+static state feedback
+numerical continuation

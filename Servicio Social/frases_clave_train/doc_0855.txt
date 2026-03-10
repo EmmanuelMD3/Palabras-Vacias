@@ -1,0 +1,8 @@
+video-on-demand
+multicast
+conventional patching
+customer request rate
+hybrid broadcast scheme
+interactivity
+quality-of-service
+scheduling

@@ -1,0 +1,4 @@
+fuzzy
+choice
+conclusions
+sensitivity

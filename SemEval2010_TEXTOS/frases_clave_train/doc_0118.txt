@@ -1,0 +1,15 @@
+vocabulari
+spoken term detect
+speech recogn
+phonet transcript
+vocabulari independ system
+speech data retriev
+index timestamp
+word index
+phonet index
+index merg
+oov search
+automat speech recognit
+speech retriev
+speak term detect
+out-of-vocabulari

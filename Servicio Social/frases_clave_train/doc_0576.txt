@@ -1,0 +1,7 @@
+all-optical ring
+all-optical routing
+communication paths
+wavelength converter
+all-optical network
+wavelength assignment
+wavelength translation

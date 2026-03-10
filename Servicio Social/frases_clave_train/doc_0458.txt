@@ -1,0 +1,8 @@
+high-speed consistency checking
+hypothetical reasoning
+inference path network
+fault diagnostics
+reasoning speed
+inconsistencies
+hypothesis composition
+speed up

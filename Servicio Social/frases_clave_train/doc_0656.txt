@@ -1,0 +1,17 @@
+feature recognition algorithms
+general-purpose feature detection techniques
+geometric models
+sets of faces
+protrusion faces
+National Design Repository
+concavity technique
+two-dimensional convex hull method
+curved faces
+three-dimensional convex hull
+minimum concave
+multiple-face inner-loop face sets
+depression faces
+single-face inner-loop technique
+CAD/CAM software
+geometric reasoning algorithms
+visible inner-loop face sets

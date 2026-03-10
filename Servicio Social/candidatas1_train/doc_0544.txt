@@ -1,0 +1,4 @@
+lack
+process
+status
+problems

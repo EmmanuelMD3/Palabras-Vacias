@@ -1,0 +1,30 @@
+functional
+patients
+coronary artery disease
+regional dysfunction
+myocardial glucose metabolism
+myocardial viability
+transfer uncertainty
+Fourier-based ECG-gated PET technique
+high resolution scanner
+diseased left ventricles
+left ventricular segment
+severe hypokinesis
+akinesis
+biplane cineventriculography
+ventriculography
+dysfunctional segments
+normokinetic/hypokinetic/akinetic segments
+akinetic segments
+residual function
+dobutamine test
+inotropic reserve
+hypokinetic segments
+pixel-based Fourier smoothing
+regional function
+segmental status
+transfer artefacts
+viable myocardium
+Fourier-based ECG-gated metabolic /sup 18/F-fluorodeoxyglucose-positron emission tomography
+/sup 18/F-fluorodeoxyglucose uptake
+thirty six-segment model

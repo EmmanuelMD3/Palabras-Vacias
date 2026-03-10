@@ -1,0 +1,17 @@
+self-organizing context-based approach
+robot trajectories
+Hebbian learning
+complex spatiotemporal sequences
+shared states
+synaptic weights
+Hebbian intralayer connections
+context units
+sequence states
+retrieval abilities
+sequence sampling effects
+trajectories tracking
+competitive learning
+competitive interlayer connections
+unsupervised learning
+storage abilities
+fault tolerance

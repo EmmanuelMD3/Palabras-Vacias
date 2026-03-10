@@ -1,0 +1,7 @@
+augmented spatial digital tree algorithm
+contact detection
+computational mechanics
+upper comer vertex
+alternating digital tree algorithm
+augmented data structure
+spatial binary tree-based contact detection approaches

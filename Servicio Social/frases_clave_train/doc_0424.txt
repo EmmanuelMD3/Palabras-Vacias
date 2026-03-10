@@ -1,0 +1,12 @@
+numerical simulation
+information recovery
+quantum computers
+error correction methods
+noisy quantum computation processes
+fault-tolerant recovering methods
+ancilla network
+qubits
+noisy quantum channel
+noisy error correction methods
+decoherence control
+ancilla fidelity

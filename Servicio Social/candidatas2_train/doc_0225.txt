@@ -1,0 +1,4 @@
+function smoothness
+improve efficiency
+and accuracy
+constraint redundancy

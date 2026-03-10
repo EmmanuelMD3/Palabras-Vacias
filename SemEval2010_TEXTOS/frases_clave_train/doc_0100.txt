@@ -1,0 +1,13 @@
+bid algorithm
+combinatori auction
+distribut alloc
+coordin
+paus auction
+task and resourc alloc
+revenu-maxim solut
+combinatori optim problem
+agent
+progress adapt user select environ
+branch and bound search
+search tree
+branch-on-bid tree

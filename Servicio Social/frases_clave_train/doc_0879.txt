@@ -1,0 +1,8 @@
+identification approach
+FIR models
+stochastic discrete systems
+time-domain estimate
+optimal frequency estimation
+frequency-domain estimate
+general prediction error criterion
+empirical frequency-domain optimal parameter estimate

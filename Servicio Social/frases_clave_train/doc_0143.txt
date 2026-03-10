@@ -1,0 +1,10 @@
+payoff-switching differential game
+differential game
+fuzzy reasoning
+payoff switching
+outcome payoff
+reasoning strategy
+fuzzy matrices
+game similarity matrix
+weighting vectors
+fuzzy inference

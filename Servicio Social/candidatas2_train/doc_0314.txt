@@ -1,0 +1,3 @@
+group sizes
+locality properties
+each group

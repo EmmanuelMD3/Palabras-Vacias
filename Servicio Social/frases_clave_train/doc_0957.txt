@@ -1,0 +1,11 @@
+open-architecture
+precision
+motion control
+direct drive servo systems
+linear motors
+composite controller
+feedforward
+feedback
+adaptive notch filter
+geometrical error compensation
+dSPACE DS1004 processor

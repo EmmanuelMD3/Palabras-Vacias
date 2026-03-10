@@ -1,0 +1,11 @@
+resolution based proof system
+temporal logic
+belief
+branching-time temporal logic
+CTL
+modal logic
+KD45
+dynamic logics
+multi-agent systems
+multi-modal logics
+rational agents

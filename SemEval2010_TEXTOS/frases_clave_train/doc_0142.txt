@@ -1,0 +1,20 @@
+graphic model
+interact partial observ markov decis process
+interact dynam influenc diagram
+influenc diagram
+agent onlin
+sequenti decis-make
+partial observ multiag environ
+multiag environ
+nash equilibrium profil
+independ structur
+multi-agent influenc diagram
+influenc diagram network
+multiplex
+polici link
+depend link
+interact influenc diagram
+onlin sequenti decis-make
+dynam inﬂuenc diagram
+decis-make
+agent model

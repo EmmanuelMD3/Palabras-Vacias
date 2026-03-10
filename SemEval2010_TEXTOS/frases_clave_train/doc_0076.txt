@@ -1,0 +1,20 @@
+hit
+rank
+rank
+mean reciproc rank
+mean averag precis
+normal discount cumul gain measur
+breadth-first search crawl
+pagerank
+queri specif
+bm25f
+featur select
+link graph
+scale and relev
+link-base featur
+hyperlink analysi
+quantit measur
+crawl web page
+mrr
+map
+ndcg

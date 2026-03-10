@@ -1,0 +1,9 @@
+coarse-graining
+large-scale network model
+visual cortex
+nonlinear spatiotemporal integral equations
+point-neuron network
+orientation selectivity
+neuronal networks
+phase-averaged firing rates
+dynamics

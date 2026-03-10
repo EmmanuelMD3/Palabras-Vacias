@@ -1,0 +1,11 @@
+hybrid models
+optimization
+enzyme fermentation
+mathematical models
+bioprocess
+product mass balance equation
+fuzzy-neural network
+cell age distribution
+biosynthesis rate
+identification
+industrial processes

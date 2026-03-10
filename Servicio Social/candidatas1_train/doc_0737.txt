@@ -1,0 +1,6 @@
+properties
+utilization
+value
+viewpoint
+IRR
+PIR

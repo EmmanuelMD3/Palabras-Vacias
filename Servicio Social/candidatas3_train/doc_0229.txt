@@ -1,0 +1,3 @@
+exponential to polynomial
+use of isomorphisms
+investigate the simulation

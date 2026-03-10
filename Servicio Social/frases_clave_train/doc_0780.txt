@@ -1,0 +1,10 @@
+action aggregation
+defuzzification
+Mamdani-type fuzzy systems
+sentence connective
+set union operation
+fuzzy response
+fuzzy rules
+crisp signals
+transparency
+mapping accuracy

@@ -1,0 +1,3 @@
+techniques for design
+development and adaptation
+steepest descent method

@@ -1,0 +1,10 @@
+variable fractional delay allpass filters
+weighted least-squares method
+fractional delay parameter
+weighted equation error
+cost function
+optimal polynomial coefficients
+linear simultaneous equations
+1D allpass filters
+2D allpass filters
+nonlinear phase error approximation

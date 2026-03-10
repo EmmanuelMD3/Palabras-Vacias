@@ -1,0 +1,6 @@
+services choices
+manufacturing industries
+information technology
+management of change
+customer relationship management
+enterprise resource planning

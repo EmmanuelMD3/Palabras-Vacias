@@ -1,0 +1,5 @@
+cellular automata
+endomorphisms
+transition diagram
+finite cellular automaton
+computational complexity

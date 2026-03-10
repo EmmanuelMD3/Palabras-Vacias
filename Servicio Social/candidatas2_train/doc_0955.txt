@@ -1,0 +1,4 @@
+dependence graphs
+Petri nets
+be pure
+the analysis

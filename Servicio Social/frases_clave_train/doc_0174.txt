@@ -1,0 +1,12 @@
+marble cutting
+single point cutting tool
+diamond segments
+frame sawing
+kinematic behaviour
+indenting-cutting tests
+residual plastic deformation
+fracture chipping
+removal processes
+fracture theory
+brittle material indentation
+cutting tests

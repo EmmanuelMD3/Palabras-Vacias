@@ -1,0 +1,2 @@
+large sampling time
+fault diagnostic capability

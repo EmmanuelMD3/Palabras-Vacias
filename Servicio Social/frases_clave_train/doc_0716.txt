@@ -1,0 +1,10 @@
+sheet buckling
+boundary constraints
+wedge strip test
+tensile test machine
+strain state
+energy-based analytical wrinkling criterion
+stress field
+deformed geometry
+forming processes
+finite element analysis

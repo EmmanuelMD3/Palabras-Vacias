@@ -1,0 +1,6 @@
+comparison
+quality
+effect
+transitions
+MFT
+UCF

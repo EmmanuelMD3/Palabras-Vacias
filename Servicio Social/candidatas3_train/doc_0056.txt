@@ -1,0 +1,2 @@
+Hebbian intralayer connections
+encode sequence states

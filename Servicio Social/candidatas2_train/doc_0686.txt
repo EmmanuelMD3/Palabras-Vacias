@@ -1,0 +1,5 @@
+application layer
+key components
+function normally
+operate properly
+including firewalls

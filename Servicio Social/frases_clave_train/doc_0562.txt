@@ -1,0 +1,10 @@
+convection
+indices
+numerical solution
+spatial index
+plasma physics
+initial boundary value problems
+finite difference splitting procedure
+fractional step method
+matrix factorization
+quasi-linear partial differential algebraic equations

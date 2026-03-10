@@ -1,0 +1,10 @@
+stationary Nash equilibria
+undiscounted single-controller stochastic games
+linear complementarity problem
+stationary strategies
+limiting average payoff criterion
+N-person stochastic games
+polymatrix stochastic games
+two-person nonzero-sum stochastic game
+copositive class matrix
+Lemke algorithm

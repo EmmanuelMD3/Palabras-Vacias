@@ -1,0 +1,4 @@
+fidelity
+universal quantum cloning machine
+nonoptimal universal quantum deleting machine
+NUQDM

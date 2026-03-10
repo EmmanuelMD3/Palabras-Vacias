@@ -1,0 +1,33 @@
+dynam pari-mutuel market
+pari-mutuel market
+hedg
+wager
+inform aggreg
+risk alloc
+inform specul
+specul
+dpm
+hybrid
+continu doubl auction
+cda
+zero risk
+market institut
+price
+gain
+loss
+sell
+event resolut
+trader interfac
+doubl auction format
+bid-ask queue
+payoff per share
+price function
+autom market maker
+autom market maker
+demand
+infinit bui-in liquid
+compound secur market
+combinatori bet
+trade
+bet
+gambl

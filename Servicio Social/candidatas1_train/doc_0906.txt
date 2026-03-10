@@ -1,0 +1,4 @@
+bandwidth
+dynamic
+generation
+acceleration

@@ -1,0 +1,12 @@
+super-resolution pits readout
+super-resolution reflective film
+380 nm
+632.8 nm
+numerical aperture
+Sb thin film thickness
+readout signal
+28 to 30 nm
+maximum CNR
+Sb super-resolution reflective layer
+SiN dielectric layer
+Sb-SiN

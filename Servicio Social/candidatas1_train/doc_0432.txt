@@ -1,0 +1,6 @@
+amount
+dimension
+exchange
+potentiality
+problem
+solution

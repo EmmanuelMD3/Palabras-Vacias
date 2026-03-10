@@ -1,0 +1,7 @@
+C++ language
+incompatibilities
+C language
+object-oriented programming
+class hierarchies
+low-level programming
+C++ libraries

@@ -1,0 +1,17 @@
+computer aided classification
+ultrasonic mammography
+frequency compounding
+ultrasonic B-mode images
+benign
+malignant
+normalized parameters
+Nakagami distribution
+single region of interest
+normalized Nakagami parameters
+receiver operating characteristic
+ROC curve
+weighted summation
+specificity
+sensitivity
+minimal clinical intervention
+breast masses

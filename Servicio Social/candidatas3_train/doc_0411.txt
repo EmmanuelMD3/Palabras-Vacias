@@ -1,0 +1,5 @@
+some related quantities
+the rest zeros
+maximal cut problem
+a degenerated one
+will be unities

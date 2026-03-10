@@ -1,0 +1,16 @@
+machin learn
+search
+titl extract
+genr
+automat titl extract
+format inform
+document retriev
+languag independ
+metada of document
+linguist featur
+comparison between model
+model gener
+extract titl us
+classifi
+inform extract
+metada extract

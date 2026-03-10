@@ -1,0 +1,6 @@
+advantages
+power
+product
+sine
+squares
+sum

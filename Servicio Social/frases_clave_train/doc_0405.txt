@@ -1,0 +1,13 @@
+generalized Gaussian quadratures
+weighted integrals
+integration
+exponential functions
+interpolation
+bandlimited functions
+eigenvalues
+Toeplitz matrix
+trigonometric moments
+approximation
+prolate spheroidal wave functions
+Bessel functions
+Caratheodory representation theorem

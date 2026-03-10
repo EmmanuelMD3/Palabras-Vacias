@@ -1,0 +1,5 @@
+an extended language
+the former style
+SGI Origin 2000
+and some aspects
+if well compiled

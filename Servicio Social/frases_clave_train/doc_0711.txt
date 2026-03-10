@@ -1,0 +1,17 @@
+FLID-DL
+congestion control
+fair layered increase/decrease with dynamic layering
+dynamic layering
+multirate congestion control algorithm
+layered multicast sessions
+receiver-driven layered congestion control protocol
+Internet group management protocol
+IGMP
+sender-initiated synchronization
+transmission control protocol
+multicast layers
+simulations
+throughput
+scalable congestion control
+Internet protocol multicast
+TCP fairness

@@ -1,0 +1,10 @@
+filtering techniques
+Numeric CSPs
+search algorithms
+Constraint Satisfaction Problems
+propagation
+artificial intelligence
+interval analysis
+CSPs-solving
+extrapolation methods
+pruning

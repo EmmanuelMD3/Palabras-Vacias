@@ -1,0 +1,10 @@
+high availability systems
+redundant hardware components
+fault detection
+software design patterns
+fault tolerant systems
+hardware reliability
+software reliability
+fault correction
+checkpointing
+software redundancy

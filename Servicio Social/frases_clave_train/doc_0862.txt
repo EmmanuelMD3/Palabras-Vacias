@@ -1,0 +1,14 @@
+active pitch control
+horizontal axis wind turbine systems
+wind turbines
+linear controller design
+fixed speed wind turbine system
+pitch angle control
+control theory
+nonlinear equations
+digital simulation
+linear quadratic optimal feedback controller
+closed circle system
+linear system control theory
+aerodynamics
+drive train dynamics

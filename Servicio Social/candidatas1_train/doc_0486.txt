@@ -1,0 +1,8 @@
+sequencing
+dawn
+perspective
+fanout
+learned
+prior
+convergence
+population

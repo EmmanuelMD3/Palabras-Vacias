@@ -1,0 +1,10 @@
+GMM
+Gaussian mixture model
+inliers
+outliers
+Gaussian distributions
+Bayesian rule
+trifocal tensor estimation
+motion analysis
+image data
+image analysis

@@ -1,0 +1,6 @@
+object-based rate allocation
+variable temporal rates
+bit allocation
+multiple video objects
+MPEG-4 video coding
+rate-distortion encoding

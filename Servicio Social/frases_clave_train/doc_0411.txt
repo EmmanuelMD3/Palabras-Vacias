@@ -1,0 +1,14 @@
+partition problems
+randomized algorithm
+maximal cut problems
+Bernoulli distribution
+deterministic network
+associated stochastic network
+random cuts
+probability
+numerical results
+polynomial complexity
+cross entropy method
+rare event simulation
+combinatorial optimization
+importance sampling

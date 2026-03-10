@@ -1,0 +1,7 @@
+Poisson stream intensity
+stream intensity
+multilinear queue
+exponential job queue decay
+busy queue periods start
+uniform resource allocation
+individual servers

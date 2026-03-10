@@ -1,0 +1,14 @@
+database applications
+Structured Query Language
+SQL
+exception programming
+integrity constraints
+table triggers
+two phase regression testing methodology
+data flow analysis
+impact analysis
+reduction algorithms
+Graph Walk algorithm
+control flow graph
+Call Graph Firewall algorithm
+control flow analysis

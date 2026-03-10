@@ -1,0 +1,5 @@
+stubborn set method
+combinatorial explosion
+CSP-equivalence
+weighted vertices
+low-degree polynomial time

@@ -1,0 +1,4 @@
+visibility complex
+visual events
+mutual visibility
+shadow boundaries

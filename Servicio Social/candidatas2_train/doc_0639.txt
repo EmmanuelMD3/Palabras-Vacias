@@ -1,0 +1,4 @@
+edge geometry
+known behavior
+shear zone
+extrapolation approach

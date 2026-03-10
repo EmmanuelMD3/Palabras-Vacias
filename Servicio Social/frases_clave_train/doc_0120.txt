@@ -1,0 +1,9 @@
+robotic excavator
+integral sliding surface
+time-delay control
+robust control
+motion control
+trajectory control
+dynamics
+tracking
+pressure control

@@ -1,0 +1,9 @@
+model checking
+temporal logic
+hardware testing
+PowerPC microprocessor
+correctness specification
+verification methodologies
+circuit design error
+Computation Tree Logic
+circuit debugging

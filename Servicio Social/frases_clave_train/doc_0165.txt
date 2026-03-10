@@ -1,0 +1,7 @@
+quantum analogues
+large deviation viewpoint
+quantum estimation
+symmetric logarithmic derivative Fisher information
+Kubo-Mori-Bogoljubov Fisher information
+consistent superefficient estimators
+statistical inference

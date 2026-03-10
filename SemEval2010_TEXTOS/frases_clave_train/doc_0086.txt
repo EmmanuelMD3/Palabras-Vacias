@@ -1,0 +1,14 @@
+author assign
+author
+commun proxi
+multi-player onlin game
+latenc compens
+artifici latenc
+proxi-base game architectur
+central-server architectur
+first person shooter
+role plai game
+client authorit approach
+cheat-proof mechan
+mmog
+distribut multi-player game

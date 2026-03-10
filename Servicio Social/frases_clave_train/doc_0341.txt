@@ -1,0 +1,8 @@
+VoIP
+cable architecture
+voice-over-IP
+core IP transport network
+United States
+PacketCable 1.x architecture
+PacketCable-based approach
+two-way interactive infrastructure

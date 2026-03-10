@@ -1,0 +1,14 @@
+lifting factorization
+DWT
+lifting matrices
+computational complexity
+discrete wavelet transform
+integer transforms
+data compression
+feature extraction
+multiframe detection
+filter bank
+lossless coding schemes
+mobile devices
+integer arithmetic
+mobile computing

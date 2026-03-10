@@ -1,0 +1,15 @@
+tracking control
+flexible slider-crank mechanism system
+impact
+variable structure control
+stabilizer design
+pole placement technique
+crank angular position
+flexible vibrations
+generalized momentum balance
+continuous force model
+effective mass compensation
+tracking trajectory
+flexible connecting rod
+conservation laws
+multibody dynamics

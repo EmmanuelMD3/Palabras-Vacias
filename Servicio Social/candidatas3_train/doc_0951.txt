@@ -1,0 +1,3 @@
+included angle effects
+design and selection
+finite element models

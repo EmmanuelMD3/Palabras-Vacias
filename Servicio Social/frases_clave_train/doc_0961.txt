@@ -1,0 +1,9 @@
+adaptive sphere-fitting method
+sequential tolerance control
+machine tools
+design constraints
+compliance
+real-time measurement information
+skewed distributions
+computational effort
+yield improvement

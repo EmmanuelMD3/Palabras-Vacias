@@ -1,0 +1,3 @@
+filtering portion
+maximum delay
+transpose ADF

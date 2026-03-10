@@ -1,0 +1,10 @@
+numerical approximation
+BVMs
+boundary value methods
+nonlinear boundary value problems
+mesh selection strategy
+quasi-linearization technique
+Newton method
+nonlinear differential equation
+stopping criteria
+stiff problems

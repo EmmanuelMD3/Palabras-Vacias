@@ -1,0 +1,9 @@
+stochastic optimization
+acoustic response
+numerical optimization
+structure
+closed cylinder
+forced vibration
+simulated annealing
+gradient-based method
+acoustic emission minimization

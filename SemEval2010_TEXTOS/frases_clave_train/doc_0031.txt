@@ -1,0 +1,14 @@
+implicit user model
+user model
+person search
+inform retriev system
+retriev perform
+implicit feedback
+queri expans
+search accuraci
+user-center adapt inform retriev
+person web search
+interact ir
+queri refin
+person inform retriev
+interact retriev

@@ -1,0 +1,4 @@
+mean energies
+energy distributions
+angular range
+deterministic solution

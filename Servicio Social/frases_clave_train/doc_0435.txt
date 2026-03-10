@@ -1,0 +1,18 @@
+transitive closure reasoning
+containment hierarchy
+class hierarchy
+knowledge representation
+inheritance
+classification
+part hierarchy
+part hierarchy
+artificial intelligence
+parallel algorithms
+data representation
+maximally reduced tree cover
+materialized transitive closure representation
+experiments
+medical vocabulary
+fixed hardware configuration
+parallel reasoning
+part hierarchies

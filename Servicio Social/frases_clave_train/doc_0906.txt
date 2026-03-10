@@ -1,0 +1,10 @@
+fractional motion control
+XY cutting table
+path tracking design
+actuators
+fractional differentiation
+optimization
+minimum path completion time
+closed-loop system
+Davidson-Cole filter
+spline function

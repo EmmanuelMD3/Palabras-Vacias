@@ -1,0 +1,6 @@
+truss topology optimization
+modified genetic algorithm
+stochastic search procedure
+near-optimal topologies
+load-bearing truss structures
+triangles

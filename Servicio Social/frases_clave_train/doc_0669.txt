@@ -1,0 +1,6 @@
+F distribution
+chi-square distribution
+cumulative distribution function
+degrees of freedom
+shrinking factor approximation
+numerical analysis

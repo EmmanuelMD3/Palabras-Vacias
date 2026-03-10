@@ -1,0 +1,3 @@
+investigate its feature
+the training data
+unseen data accurately

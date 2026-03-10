@@ -1,0 +1,8 @@
+distributed control systems
+message-based scheduling method
+end-to-end constraints
+precedence constraints
+time constraints
+periods assignment
+priorities assignment
+task-based scheduling method

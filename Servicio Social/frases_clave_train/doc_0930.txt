@@ -1,0 +1,25 @@
+Health Level Seven
+international standard
+electronic data exchange
+health care environments
+administrative information
+HL7 message formats
+HIS
+message object model
+MOM
+message definition repository
+MDR
+logical relationships
+structural constraints
+standalone software components
+heterogeneous hospital information systems
+external database
+key definitions
+JAVA
+reusable framework
+extensible encoding/decoding framework
+abstract message form
+ActiveX
+JAVABEAN
+CORBA
+clinical information

@@ -1,0 +1,5 @@
+amplitude
+behavior
+effects
+modulation
+presence

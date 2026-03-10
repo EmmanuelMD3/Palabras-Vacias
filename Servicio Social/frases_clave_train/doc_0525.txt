@@ -1,0 +1,14 @@
+single-pass welding task sequencing
+offline programming
+robot arc welding
+modified travelling salesman problem
+local search heuristics
+computational speed
+automated process-planning procedure
+productivity
+welding distortion
+constructive heuristics
+nearest neighbour concept
+tabu search heuristics
+welded structure problems
+random problems

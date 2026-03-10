@@ -1,0 +1,16 @@
+intensity modulated radiation therapy
+treatment planning
+beam optimization
+beam delivery
+fluence patterns
+objective function parameters
+deliverable dose distribution
+empirical adjustment
+iterative optimization
+multileaf collimator leaf sequencing
+tumor dose
+optimized intensity
+gradient-based search algorithm
+beamlet ray intensities
+Newton method
+dose-volume objective values

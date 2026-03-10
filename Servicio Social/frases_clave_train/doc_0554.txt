@@ -1,0 +1,11 @@
+minimum rule set
+predictive power
+redundant computation
+predictive association rules
+upward closure property
+experimental results
+dense databases
+optimal class association rule set mining
+relational database
+data mining
+weak rule pruning

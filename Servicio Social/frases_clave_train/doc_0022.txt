@@ -1,0 +1,14 @@
+multiecho segmented EPI
+z-shimmed background gradient compensation
+fMRI
+severe susceptibility artifacts
+temporal resolution
+image distortion
+signal dropout
+orbitofrontal cortex
+navigator echoes
+ghost artifacts
+event-related functional brain mapping
+gradient compensation pulse sequence
+BOLD-weighted signal
+spatial resolution

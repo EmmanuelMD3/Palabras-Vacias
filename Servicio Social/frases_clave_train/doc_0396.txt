@@ -1,0 +1,7 @@
+strong monotonicity property
+P/sub 2/-property
+GUS-property
+semidefinite linear complementarity problems
+linear transformation
+Lyapunov transformations
+symmetric real matrices

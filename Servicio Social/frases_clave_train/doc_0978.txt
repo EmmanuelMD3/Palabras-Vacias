@@ -1,0 +1,8 @@
+serial manufacturing systems
+rework
+reachability
+controllability
+dynamic fractional-flow model
+positive linear systems
+feedback control
+performance optimisation

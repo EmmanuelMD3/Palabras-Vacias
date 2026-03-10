@@ -1,0 +1,5 @@
+topologically
+cases
+dimension
+manifold
+plane

@@ -1,0 +1,10 @@
+bounded model checking
+model checking
+universal fragment
+verification method
+reactive systems
+SAT methods
+propositional formula
+linear time temporal logic
+elementary net systems
+bounded semantics

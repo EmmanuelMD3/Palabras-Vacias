@@ -1,0 +1,4 @@
+actual noise sources
+short time spectrum
+clean speech signal
+speech enhancement algorithm

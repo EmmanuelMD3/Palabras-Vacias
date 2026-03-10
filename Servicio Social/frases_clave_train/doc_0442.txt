@@ -1,0 +1,10 @@
+composite laminates
+maximum failure margins
+interactive descent algorithm
+interactive multicriterion optimization
+multiple loading conditions
+first ply failure
+bicriterion problem
+discrete procedure
+convergence
+Pareto optimum

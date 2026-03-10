@@ -1,0 +1,8 @@
+wireless broadcast channels
+query processing
+mobile computing
+access latency
+database broadcasting
+access time
+tuning time
+broadcast program

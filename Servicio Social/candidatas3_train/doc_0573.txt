@@ -1,0 +1,5 @@
+the boundary conditions
+of rectangular nonpiezoelectric
+the Heaviside function
+Mindlin displacement field
+adopted structure model

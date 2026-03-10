@@ -1,0 +1,18 @@
+real-time estimation
+multi-modal frequencies
+smart structures
+frequency estimation
+noise control
+Bairstow method
+characteristic equation
+ARMA
+cascade notch filter
+linearized adaptive notch filter
+recursive maximum likelihood methods
+real-time computations
+vibration signal
+wing-like composite plates
+frequency estimation algorithm
+real-time applications
+adaptive vibration control
+auto regressive and moving average methods

@@ -1,0 +1,11 @@
+work sequencing
+manufacturing cell
+limited labour constraints
+group scheduling heuristics
+automated manufacturing cells
+job scheduling
+production planning
+dual-constrained automated manufacturing cell
+labour allocation policies
+efficiency oriented exhaustive group scheduling heuristics
+nonexhaustive heuristics

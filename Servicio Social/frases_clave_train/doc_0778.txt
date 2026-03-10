@@ -1,0 +1,6 @@
+Magnus series
+Lie-algebraic equations
+isospectral flow
+Taylor expansion
+bicolor leaves
+double-bracket flows discretization

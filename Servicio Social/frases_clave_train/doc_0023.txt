@@ -1,0 +1,9 @@
+phase conditions
+Schur polynomial
+rate of change of phase
+real coefficients
+Tchebyshev representation
+phase monotonicity
+robust stability
+discrete-time control systems
+stabilization

@@ -1,0 +1,10 @@
+Implicit Euler method
+differential-algebraic equations
+differential index
+convergence
+variable-step method
+variable-order formulas
+stepsize change
+linear multistep method
+backward differentiation formula
+initial value problem

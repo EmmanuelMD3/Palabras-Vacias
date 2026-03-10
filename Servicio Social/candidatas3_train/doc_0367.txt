@@ -1,0 +1,1 @@
+nonnegative node weights

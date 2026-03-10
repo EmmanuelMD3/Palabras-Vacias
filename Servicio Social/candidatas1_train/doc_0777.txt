@@ -1,0 +1,4 @@
+simplicity
+edge
+performance
+scalability

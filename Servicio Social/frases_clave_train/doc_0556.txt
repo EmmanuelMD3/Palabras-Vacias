@@ -1,0 +1,13 @@
+state of the art
+agent-mediated electronic commerce
+consumer buying behaviour
+product brokering
+merchant brokering
+negotiation
+supply chain management
+mobile agents
+evolutionary agents
+data-mining agents
+business-to-consumer e-commerce
+multi-agent systems
+business-to-business e-commerce

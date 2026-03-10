@@ -1,0 +1,8 @@
+attribute generation
+association rules
+decision tree
+training data
+attribute extraction
+data mining
+experiments
+large database

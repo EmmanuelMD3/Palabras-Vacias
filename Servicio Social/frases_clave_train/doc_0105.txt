@@ -1,0 +1,11 @@
+parametric surfaces
+ray-surface intersections
+Bezier clipping
+ray coherence
+Newton iteration
+obstruction detection technique
+convergence
+efficient stable ray tracing algorithm
+Newton method
+primary ray tracing
+secondary ray tracing

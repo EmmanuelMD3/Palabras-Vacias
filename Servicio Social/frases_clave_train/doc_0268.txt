@@ -1,0 +1,14 @@
+direct self control
+highly dynamic control scheme
+medium-voltage induction motor drives
+double three-level inverter
+open motor windings
+stator flux
+torque quality
+very low torque ripple
+torque hysteresis control
+parallel connected inverters
+variable-speed drives
+multilevel converters
+machine observer
+180 kW

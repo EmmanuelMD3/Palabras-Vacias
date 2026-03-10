@@ -1,0 +1,3 @@
+lower input cost
+the damping ratios
+total kinetic energy

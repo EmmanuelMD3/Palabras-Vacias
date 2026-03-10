@@ -1,0 +1,13 @@
+complete robot dynamics
+neural architecture
+manipulator dynamics
+static neural networks
+general system analysis
+B-spline polynomial basis functions
+recursive implementation
+online identification
+dynamic model
+complete 6 joint industrial robot
+multi-dimensional RBF-like neural architecture
+fixed grid based neuron placement
+online learning

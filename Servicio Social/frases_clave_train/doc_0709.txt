@@ -1,0 +1,8 @@
+sliding mode control
+chaos
+sliding surface
+chattering
+state change
+cubic Chua circuit system
+match disturbance
+mismatch disturbance

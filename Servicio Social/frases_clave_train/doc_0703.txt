@@ -1,0 +1,13 @@
+decentralized integral controllability
+stable decentralized controllers
+integral action
+closed-loop properties
+stable independent detuning
+control system design
+steady-state process gain matrix
+real structured singular value
+necessary sufficient conditions
+systematic control structure selection
+controller gain realness
+unworkable pairing elimination
+Schur complement

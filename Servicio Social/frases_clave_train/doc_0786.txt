@@ -1,0 +1,15 @@
+permission grid
+error-bounded simplification
+spatial occupancy grid
+polygonal surface simplification algorithm
+approximation
+guaranteed geometric error bound
+user-specified distance
+scientific computing
+adaptive level of detail control
+arbitrary triangular models
+mesh degeneracies
+error tolerance
+vertex correspondences
+representation complexity
+running time overhead

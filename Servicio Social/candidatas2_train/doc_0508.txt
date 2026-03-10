@@ -1,0 +1,3 @@
+communication optimizations
+compiler cannot
+asynchronous communication

@@ -1,0 +1,6 @@
+reductions
+parallel supercomputers
+clusters of workstations
+language construct
+parallel programming
+scientific computing

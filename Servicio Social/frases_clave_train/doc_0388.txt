@@ -1,0 +1,18 @@
+metaschemas
+ORM
+UML
+data models
+database modeling notations
+Information Engineering
+Object Role Modeling
+conceptual schema diagrams
+optionality
+cardinality
+multiplicity
+Unified Modeling Language
+class diagrams
+normalization
+orthogonality
+language transparency
+Entity Relationship modeling
+Barker notation

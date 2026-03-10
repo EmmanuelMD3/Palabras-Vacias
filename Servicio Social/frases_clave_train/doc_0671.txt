@@ -1,0 +1,15 @@
+weighted factors analysis
+directed weighted graph
+WeFA graph
+directed arc
+profitability
+organization
+significance
+Binary WeFA
+reasoning
+logic-based argumentation
+decision-support
+knowledge management
+knowledge elicitation
+knowledge representation
+knowledge manipulation

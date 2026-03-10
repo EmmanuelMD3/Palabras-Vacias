@@ -1,0 +1,12 @@
+composites
+scattered elastic-wave field
+improved mu GA
+local optimizer
+flaw detection
+optimization problem
+surface displacement response
+flaw configurations
+objective function
+error norms
+convergence
+noise effect suppression

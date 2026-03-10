@@ -1,0 +1,3 @@
+viewpoint is moved
+handle temporal visibility
+or more precisely

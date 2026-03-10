@@ -1,0 +1,3 @@
+performs extremely well
+observed sample proportion
+medium sample sizes

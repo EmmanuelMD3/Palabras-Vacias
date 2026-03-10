@@ -1,0 +1,3 @@
+essentially bandlimited functions
+integrate bandlimited functions
+derive these quadratures

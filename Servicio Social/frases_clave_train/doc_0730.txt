@@ -1,0 +1,16 @@
+mammogram synthesis
+3D simulation
+breast tissue model
+image acquisition simulation
+computer breast model
+adipose compartments
+ducts
+X-ray image acquisition
+tissue elasticity parameters
+force values
+monoenergetic parallel beam approximation
+mammographic compression
+breast lesions
+rectangular slice approximation
+composite beam model
+linear Young's moduli

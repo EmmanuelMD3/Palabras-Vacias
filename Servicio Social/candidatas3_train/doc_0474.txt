@@ -1,0 +1,3 @@
+Backward Induction methods
+an SMP cluster
+an extended version

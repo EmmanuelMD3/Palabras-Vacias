@@ -1,0 +1,8 @@
+SMA
+embedded shape memory alloy
+smart structures
+SMA actuators
+homogenization
+models
+thermal activation
+linear matrix

@@ -1,0 +1,6 @@
+interests
+maintained
+attitudes
+configuration
+context
+problem

@@ -1,0 +1,19 @@
+strip mill
+high dynamic control system
+medium-voltage drive
+switching frequency
+gate-turn-off thyristors
+efficiency
+three-level voltage-source converter
+synchronous motor
+mechanical power
+motor voltage
+control objective
+DC-link voltage regulation
+torque harmonics
+motor flux
+excitation
+DC-link voltage balancing
+current harmonics
+8.3 MW
+3 kV

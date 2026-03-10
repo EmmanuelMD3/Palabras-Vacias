@@ -1,0 +1,5 @@
+polychromatic stars
+positive integer
+positive integer
+edge colorings
+positive integers

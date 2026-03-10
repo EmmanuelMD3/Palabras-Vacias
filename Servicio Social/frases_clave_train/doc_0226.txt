@@ -1,0 +1,14 @@
+decoherence
+ancilla processes
+general condition
+single two-state quantum system
+qubit
+thermal bath
+auxiliary systems
+extra qubits
+extra classical fields
+quantum information processing
+decoherence-free quantum memories
+quantum operations
+decoherence inhibition
+sphere surface

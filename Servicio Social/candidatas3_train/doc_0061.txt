@@ -1,0 +1,3 @@
+account process tolerances
+current mirror operation
+was exhaustively simulated

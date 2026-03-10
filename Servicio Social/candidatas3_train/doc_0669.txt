@@ -1,0 +1,4 @@
+any fixed k
+theoretical approximation error
+with associated degrees
+k and n

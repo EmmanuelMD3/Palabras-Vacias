@@ -1,0 +1,5 @@
+price
+ATM
+reliability
+excellent
+unacceptable

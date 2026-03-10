@@ -1,0 +1,7 @@
+hierarchical neuro-fuzzy quadtree
+quadtree
+neuro-fuzzy systems
+fuzzy systems
+recursive partitioning
+learning algorithm
+Mackey Glass chaotic series

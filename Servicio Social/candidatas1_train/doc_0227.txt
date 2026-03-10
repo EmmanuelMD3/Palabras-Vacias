@@ -1,0 +1,6 @@
+effectiveness
+number
+APCA
+AVIRIS
+HYDICE
+HYMAP

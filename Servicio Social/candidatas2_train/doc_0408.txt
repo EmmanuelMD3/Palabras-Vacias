@@ -1,0 +1,5 @@
+average number
+full length
+overtravel distances
+intensity level
+areal algorithm

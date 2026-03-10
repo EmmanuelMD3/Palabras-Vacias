@@ -1,0 +1,11 @@
+bad pixel identification
+principal components analysis
+temporal evolution
+statistical distance
+robustness
+identification algorithm
+eigenimages
+multinormal distribution
+focal plane array
+IR camera
+CCD visible camera

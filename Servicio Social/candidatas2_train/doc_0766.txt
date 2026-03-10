@@ -1,0 +1,3 @@
+consequence atom
+SLD procedure
+reasoning situation

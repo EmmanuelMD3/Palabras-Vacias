@@ -1,0 +1,11 @@
+optical setup
+disk-type photopolymer high-density holographic storage
+spatial multiplexing
+recording capacity
+limited medium thickness
+optimal beam recording angle
+maximum recording capacity
+angular multiplexing
+recording density
+spatio-angular multiplexing
+maximum density

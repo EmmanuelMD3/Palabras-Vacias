@@ -1,0 +1,4 @@
+aggregation
+issues
+outputs
+shortcomings

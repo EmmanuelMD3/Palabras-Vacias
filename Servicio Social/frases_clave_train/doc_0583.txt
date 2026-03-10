@@ -1,0 +1,10 @@
+spectral analysis
+Voigt profiles
+pulsed spectrometries
+temporal transients
+Gauss-Lorentz profiles
+Nelder and Mead Simplex method
+accuracy
+limited acquisition time interval
+final peak parameters
+Gaussian profiles

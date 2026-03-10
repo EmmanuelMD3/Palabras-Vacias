@@ -1,0 +1,7 @@
+minimizes an explicit
+application being compiled
+the objective function
+the target machine
+to the pool
+external objective function
+biased random searches

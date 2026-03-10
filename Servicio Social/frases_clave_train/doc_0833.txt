@@ -1,0 +1,15 @@
+normally-open microvalves
+paraffin microactuator
+active element
+channel materials
+gas flow rates
+flow rates
+actuation powers
+50 to 150 mW
+leak rates
+blocking valve structures
+differential pressure
+800 torr
+surface micromachined microvalve
+600 micron
+30 micron

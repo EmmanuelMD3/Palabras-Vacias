@@ -1,0 +1,15 @@
+co-operative Web caching architecture
+network caching
+cooperative cache system
+protocols
+transversal caching
+network load
+co-operative hit rate
+network traffic reduction
+network latency reduction
+hierarchical caching
+scalable architecture
+low traffic overhead
+low database overhead
+Web browser
+World Wide Web

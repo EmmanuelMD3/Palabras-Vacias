@@ -1,0 +1,4 @@
+class
+effect
+limitations
+stabilization

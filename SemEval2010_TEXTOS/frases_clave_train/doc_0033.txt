@@ -1,0 +1,16 @@
+inform
+invers document frequenc
+invers document frequenc
+idf
+probabl function
+frequenc-base probabl
+poisson-base probabl
+document disjoint
+nois probabl
+inform retriev
+probabl theori
+collect space
+probabilist inform retriev
+poisson distribut
+inform theori
+independ assumpt

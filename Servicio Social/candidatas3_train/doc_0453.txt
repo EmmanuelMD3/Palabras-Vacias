@@ -1,0 +1,3 @@
+control dynamic systems
+initial parameters setting
+fast learning speed

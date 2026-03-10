@@ -1,0 +1,9 @@
+polymorphic subtypes
+Hilbert style axiomatization
+logical semantics
+Gentzen style calculi
+finite binary tree
+pushdown store
+decidability
+products subtypes
+metamathernatical properties

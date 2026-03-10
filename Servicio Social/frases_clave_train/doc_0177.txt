@@ -1,0 +1,9 @@
+ontology
+approximate reason
+information granules
+granules
+parameterized approximation spaces
+decision rules
+reflective judgment
+pattern recognition
+rough sets

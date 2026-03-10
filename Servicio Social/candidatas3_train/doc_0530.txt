@@ -1,0 +1,4 @@
+multispectral IKONOS data
+panchromatic IKONOS data
+of individual segments
+distinguish road pixels

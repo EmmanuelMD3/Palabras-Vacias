@@ -1,0 +1,7 @@
+Petri nets
+concurrent systems
+context dependent actions
+goal marking
+finite prefix
+linear programming
+contextual nets reachability

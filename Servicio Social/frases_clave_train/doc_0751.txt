@@ -1,0 +1,12 @@
+WorldFIP Networks
+distributed computer-controlled systems
+communication services
+aperiodic exchanges
+first-come-first-served policy
+traffic online admission control
+periodic process variables
+EN-50170 European fieldbus standard
+real-time traffic schedulability analysis
+real-time communication
+scheduling algorithms
+response time

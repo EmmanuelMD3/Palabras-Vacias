@@ -1,0 +1,6 @@
+Chen system
+tuning
+Lorenz attractor
+Chen attractors
+transition chaotic attractor
+Lorenz system

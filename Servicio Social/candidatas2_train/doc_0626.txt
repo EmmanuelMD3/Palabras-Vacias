@@ -1,0 +1,6 @@
+core language
+language features
+outstanding problems
+be supported
+array ranks
+data kinds

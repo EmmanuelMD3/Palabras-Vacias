@@ -1,0 +1,12 @@
+commun
+commun complex
+complex
+vote rule
+vote
+stv
+maximin
+protocol
+prefer
+prefer aggreg
+resourc alloc
+elicit problem

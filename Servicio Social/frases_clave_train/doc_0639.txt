@@ -1,0 +1,9 @@
+tool edge geometry
+edge geometry
+orthogonal machining
+cutting tool
+metal cutting
+extrapolation
+dwell force
+zinc
+ploughing component

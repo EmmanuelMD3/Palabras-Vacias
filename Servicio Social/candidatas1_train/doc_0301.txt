@@ -1,0 +1,9 @@
+alarms
+set
+alarm
+data
+interactive
+pictures
+regulation
+SYDEX
+SYGEC

@@ -1,0 +1,4 @@
+n
+length
+subject
+LCS

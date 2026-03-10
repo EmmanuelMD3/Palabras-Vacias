@@ -1,0 +1,8 @@
+application
+center
+detection
+effect
+use
+7
+respectively
+ETACT

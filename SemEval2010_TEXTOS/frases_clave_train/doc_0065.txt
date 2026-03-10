@@ -1,0 +1,17 @@
+hit
+trec
+ir evalu
+network analysi
+inform retriev evalu experi
+weight bipartit graph
+social network analysi
+system-topic graph
+hit algorithm
+human assessor
+mean averag precis
+web search engin implement
+link analysi techniqu
+inlink
+pagerank
+stem
+kleinberg' hit algorithm

@@ -1,0 +1,3 @@
+cardinality
+equivalently
+G

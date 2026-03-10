@@ -1,0 +1,11 @@
+formula-dependent equivalence
+CTL model checking
+polytime computable state equivalence
+CTL formula
+interacting FSM
+compositional minimization
+coarse equivalence
+complexity reduction
+automatic method
+formal design verification
+computation tree logic

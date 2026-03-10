@@ -1,0 +1,20 @@
+direct gear tooth contact analysis
+hypoid bevel gears
+mathematical model
+generating process
+first order singularity
+operator equation
+second order conditions
+generated gear tooth flanks
+computer
+nonlinear equation system
+transmission error
+curvature properties
+contact ellipses
+bearing area
+automatic differentiation
+geometric quantities
+machine accuracy
+first order conditions
+contact paths
+exact bound determination

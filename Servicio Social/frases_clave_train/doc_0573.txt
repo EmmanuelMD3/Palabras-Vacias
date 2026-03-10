@@ -1,0 +1,24 @@
+composite adaptive rectangular structure
+Heaviside function
+mathematical model
+piezoelectric actuators
+piezoelectric patches
+equations of motion
+boundary conditions
+electromechanical coupling
+Mindlin displacement field
+Hamilton principle
+delta-Dirac distribution
+embedded actuators
+embedded sensors
+bonded actuators
+bonded sensors
+piezoelectric sensors
+nonpiezoelectric patches
+closed-form solution
+Lagrangian functions
+linear piezoelectricity
+constitutive relations
+virtual kinetic energy
+rectangular composite plate
+finite-element method

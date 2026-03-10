@@ -1,0 +1,9 @@
+transient gating charge movement
+charge movement
+ion channels
+transmembrane voltage
+gating current
+Markov state model
+inactivation
+action potentials
+immobilization

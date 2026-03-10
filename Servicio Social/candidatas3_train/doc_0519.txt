@@ -1,0 +1,4 @@
+reliability of use
+30 mu A
+350 mu A
+model Cyclone 30

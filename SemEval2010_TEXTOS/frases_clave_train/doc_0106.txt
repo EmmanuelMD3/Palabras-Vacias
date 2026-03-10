@@ -1,0 +1,13 @@
+stem
+stem
+web search
+languag model
+context sensit document match
+lovin stemmer
+porter stemmer
+candid gener
+queri segment
+head word detect
+context sensit queri stem
+unigram languag model
+bigram languag model

@@ -1,0 +1,5 @@
+basis
+estimate
+size
+ASN
+p

@@ -1,0 +1,14 @@
+deadlock-free scheduling
+flexible manufacturing systems
+Petri nets
+systems of sequential systems with shared resources
+partial reachability graph
+near-optimal deadlock-free schedule
+siphon truncation technique
+user control factor
+CPU time
+randomly generated examples
+optimal deadlock-free schedule
+Petri net model transitions firing sequence
+mean flow time minimization
+optimality condition relaxation

@@ -1,0 +1,7 @@
+dynamic checkpoint scheduling scheme
+distributed computing systems
+optimal checkpointing interval
+cost evaluation
+communication pattern
+fault tolerant computing
+rollback recovery

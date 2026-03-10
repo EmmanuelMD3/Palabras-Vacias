@@ -1,0 +1,12 @@
+voxel size
+I
+prostate /sup 125/I seed implants
+cumulative dose-volume histograms
+radioactive seed prostate implants
+computational speed
+in-house computer program
+hand-calculated dose-volume histograms
+single-seed dose-volume histograms
+/sup 125/I model
+/sup 125/I prostate implant patients
+VariSeed treatment planning software's dose-volume histogram algorithm

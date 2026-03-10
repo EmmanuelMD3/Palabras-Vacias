@@ -1,0 +1,15 @@
+combinatori resourc schedul
+resourc
+schedul
+optim resourc schedul
+multiag system
+markov decis process
+resourc alloc
+optim problem
+util function
+optim alloc
+discret-time schedul problem
+resourc-schedul algorithm
+resourc-schedul
+task and resourc alloc in agent system
+multiag plan

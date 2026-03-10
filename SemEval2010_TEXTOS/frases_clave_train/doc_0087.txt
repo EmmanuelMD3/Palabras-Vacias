@@ -1,0 +1,18 @@
+rout protocol
+rout
+contact trace
+opportunist network
+simul
+prophet
+delai-toler network
+mobil opportunist network
+frequent link break
+end-to-end path
+random mobil model
+realist mobil trace
+unicast
+transfer probabl
+direct-deliveri protocol
+epidem protocol
+replic strategi
+past encount and transit histori

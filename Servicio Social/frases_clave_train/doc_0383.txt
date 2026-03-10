@@ -1,0 +1,8 @@
+existence condition
+gamma -acyclic database schemes
+MVDs constraints
+database technology
+large-scale system
+connected join expression
+query performance
+sufficient and necessary condition

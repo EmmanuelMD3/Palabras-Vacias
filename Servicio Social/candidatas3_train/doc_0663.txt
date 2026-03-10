@@ -1,0 +1,4 @@
+for each bin
+scanlines are packed
+the 1D case
+algorithm are given

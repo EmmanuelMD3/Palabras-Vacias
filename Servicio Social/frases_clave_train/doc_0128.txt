@@ -1,0 +1,12 @@
+active constrained layer damping
+time domain analysis
+three-dimensional finite-element closed-loop model
+Golla-Hughes-McTavish method
+viscoelastic material
+ACLD models
+passive constrained model
+active damping model
+vibration suppression
+structural damping
+viscoelastic layer
+passive damping

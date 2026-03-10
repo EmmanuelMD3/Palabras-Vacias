@@ -1,0 +1,10 @@
+Runge-Kutta discretizations
+equilibria
+index 2 differential algebraic systems
+geometric properties
+half-explicit Runge-Kutta methods
+continuous system
+scaling techniques
+invariant manifold
+discretized ordinary differential equations
+cut-off techniques

@@ -1,0 +1,2 @@
+loaded cell impedance
+logistic map CNN

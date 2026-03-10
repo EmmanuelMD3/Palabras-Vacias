@@ -1,0 +1,8 @@
+deformation
+model
+deformations
+expense
+level
+recovery
+SMAs
+SME

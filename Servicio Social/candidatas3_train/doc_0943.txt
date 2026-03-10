@@ -1,0 +1,3 @@
+a power system
+into several parts
+real control signal

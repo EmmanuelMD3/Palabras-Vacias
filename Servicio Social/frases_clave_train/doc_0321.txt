@@ -1,0 +1,10 @@
+positioning
+positional control
+pneumatic manipulators
+construction tasks
+angle trajectories
+long linear trajectory manipulator
+three-phase motion modes
+fuzzy logic controls
+gantry type machines
+two-phase motion modes

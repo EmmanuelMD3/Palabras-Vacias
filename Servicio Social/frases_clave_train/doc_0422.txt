@@ -1,0 +1,9 @@
+distributed Haskell
+distributed languages
+multiple processors
+coordination language
+lazy language
+functional computation language
+parallel Haskell
+parallel languages
+functional programming

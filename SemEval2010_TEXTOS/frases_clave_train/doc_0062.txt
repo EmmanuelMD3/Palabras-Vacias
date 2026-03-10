@@ -1,0 +1,13 @@
+fair
+dead-reckon
+dead-reckon vector
+accuraci
+mean error
+budget base algorithm
+schedul algorithm
+distribut multi-player game
+quantiz
+export error
+bucket synchron
+network delai
+clock synchron

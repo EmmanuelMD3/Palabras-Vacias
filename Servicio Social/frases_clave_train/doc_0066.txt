@@ -1,0 +1,16 @@
+text-independent speaker verification
+utterance level scoring
+covariance modeling
+computationally simple method
+second order statistics
+normalized score
+sample covariance
+speaker covariance
+distortion measure
+distortion measure
+NIST speaker recognition evaluation
+Gaussian mixture model
+GMM
+computational complexity
+verification accuracy
+distortion measures

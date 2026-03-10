@@ -1,0 +1,7 @@
+parallelizing compilers
+run-time privatization method
+run-time dead code
+backward data-flow information
+Proteus Test
+dynamic parallelism
+run-time data flow analysis

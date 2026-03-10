@@ -1,0 +1,7 @@
+packet loss rate
+an aggregated flow
+solve this problem
+it is simple
+scalability and simplicity
+Quality of Service
+Transmission Control Protocol

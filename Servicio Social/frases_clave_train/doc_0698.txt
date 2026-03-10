@@ -1,0 +1,19 @@
+scalable hybrid computation
+spikes
+hybrid analog-digital scheme
+moderate-precision analog units
+frequent discrete signal restoration
+analog noise
+spike-count codes
+spike-time codes
+distributed analog computation
+digital carry interactions
+binary control vector
+feedback interactions
+finite-state-machine
+error-correcting analog-to-digital conversion
+silicon circuits
+pattern recognition
+learning
+vector quantization
+two neuron hybrid state machine

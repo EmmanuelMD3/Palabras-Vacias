@@ -1,0 +1,4 @@
+fragmentation
+diffusion
+integration
+variation

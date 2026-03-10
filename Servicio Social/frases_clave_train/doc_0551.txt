@@ -1,0 +1,3 @@
+free group
+arbitrary natural number coprime
+outer automorphism group embedding

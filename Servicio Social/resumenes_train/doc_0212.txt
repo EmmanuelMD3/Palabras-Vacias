@@ -1,0 +1,1 @@
+With the use of Pontryagin's maximum principle, a problem of optimal time distribution of advertising expenses in the functioning of an insurance company is solved

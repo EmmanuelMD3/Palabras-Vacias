@@ -1,0 +1,5 @@
+piezoelectric patches
+linear theory
+boundary conditions
+electromechanical coupling
+same configuration

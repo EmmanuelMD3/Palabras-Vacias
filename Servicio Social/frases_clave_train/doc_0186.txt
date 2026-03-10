@@ -1,0 +1,7 @@
+handles
+exception
+C++ program
+inheritance hierarchy
+assignment operator
+self-assignment
+aliasing problems

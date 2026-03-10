@@ -1,0 +1,5 @@
+asymptotic variance
+delta intervals
+be conservative
+Fieller interval
+delta interval

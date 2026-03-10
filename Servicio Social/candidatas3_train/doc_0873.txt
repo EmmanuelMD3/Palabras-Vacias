@@ -1,0 +1,3 @@
+a specific location
+a specific destination
+given a sequence
